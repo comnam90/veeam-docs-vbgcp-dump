@@ -1,0 +1,12 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "Veeam Backup for Google Cloud Docs",
+  "description": "Unofficial documentation dump for Veeam Backup for Google Cloud (VBGCP). Cloud-native backup for GCP Compute Engine VMs and Cloud SQL.",
+  "folders": ["docs"],
+  "excludeFolders": [],
+  "excludeFiles": [],
+  "rules": [
+    "This is unofficial documentation - always verify against official Veeam Help Center",
+    "Covers GCP-native backup appliance deployment and management"
+  ]
+}
