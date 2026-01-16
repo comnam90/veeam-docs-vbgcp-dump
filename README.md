@@ -14,7 +14,7 @@ Markdown conversions of Veeam Backup for Google Cloud documentation, optimized f
 
 |                  |                                                      |
 | ---------------- | ---------------------------------------------------- |
-| **Source**       | https://helpcenter.veeam.com/docs/vbgc/              |
+| **Source**       | https://helpcenter.veeam.com/docs/vbgc/guide/        |
 | **Last Updated** | 2025-01-15                                           |
 | **Maintainer**   | [@comnam90](https://github.com/comnam90)             |
 
