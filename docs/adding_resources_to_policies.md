@@ -1,5 +1,5 @@
 ---
-title: "adding_resources_to_policies"
+title: "Adding Resources to Policies"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/adding_resources_to_policies.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Adding Resources to Policies
 
-In this article
 
 If you want to include additional resources (VM, Cloud SQL or Cloud Spanner instances) in the existing backup policies, you can either [edit the backup policy settings](editing_backup_policies.md) or quickly add the resources to the policies on the Resources page.
 
@@ -27,6 +27,4 @@ For a backup policy to be displayed in the list of available policies, the Googl
 
 [![Adding Resources to Policy](images/adding_resources.webp)](images/adding_resources.webp "Adding Resources to Policy")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

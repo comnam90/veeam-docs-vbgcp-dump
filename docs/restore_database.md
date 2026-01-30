@@ -1,5 +1,5 @@
 ---
-title: "restore_database"
+title: "Database Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_database.html"
@@ -7,8 +7,8 @@ last_updated: "1/26/2024"
 product_version: "7.0.0.47"
 ---
 
+# Database Restore
 
-In this article
 
 To restore a Cloud SQL database from an image-level backup, Veeam Backup for Google Cloud performs the following steps:
 
@@ -29,6 +29,4 @@ For more information on how to specify a project for worker instances, see [Mana
 
 To learn how to restore a Cloud SQL database from an image-level backup, see [Performing Database Restore](performing_database_restore_ui.md).
 
-Page updated 1/26/2024
 
-Page content applies to build 7.0.0.47

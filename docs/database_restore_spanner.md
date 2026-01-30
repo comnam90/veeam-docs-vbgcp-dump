@@ -1,5 +1,5 @@
 ---
-title: "database_restore_spanner"
+title: "Database Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/database_restore_spanner.html"
@@ -7,8 +7,8 @@ last_updated: "12/19/2025"
 product_version: "7.0.0.47"
 ---
 
+# Database Restore
 
-In this article
 
 To restore a Cloud Spanner database from a cloud-native snapshot, Veeam Backup for Google Cloud copies database snapshots from the source instance, and then uses [native Google Cloud capabilities](https://cloud.google.com/spanner/docs/backup/restore-backup-overview) to revert the databases to their snapshots.
 
@@ -32,6 +32,4 @@ If the processed instance contains databases with foreign keys, Veeam Backup for
 
 To learn how to restore a Cloud Spanner database from an image-level backup or a cloud-native snapshot, see [Performing Database Restore](performing_spanner_database_restore_ui.md).
 
-Page updated 12/19/2025
 
-Page content applies to build 7.0.0.47

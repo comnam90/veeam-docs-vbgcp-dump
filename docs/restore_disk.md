@@ -1,5 +1,5 @@
 ---
-title: "restore_disk"
+title: "Disk Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_disk.html"
@@ -7,8 +7,8 @@ last_updated: "12/11/2023"
 product_version: "7.0.0.47"
 ---
 
+# Disk Restore
 
-In this article
 
 To restore persistent disks from a cloud-native snapshot, Veeam Backup for Google Cloud uses [native Google Cloud capabilities](https://cloud.google.com/compute/docs/disks/restore-and-delete-snapshots). To restore persistent disks from an image-level backup, Veeam Backup for Google Cloud performs the following steps:
 
@@ -38,6 +38,4 @@ The number of empty persistent disks equals the number of disks you want to rest
 
 To learn how to restore persistent disks attached to a VM instance from a cloud-native snapshot or an image-level backup, see [Performing Disk Restore](performing_disk_restore.md).
 
-Page updated 12/11/2023
 
-Page content applies to build 7.0.0.47

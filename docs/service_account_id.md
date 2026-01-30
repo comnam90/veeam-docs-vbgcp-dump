@@ -1,5 +1,5 @@
 ---
-title: "service_account_id"
+title: "Step 4. Specify Account Details"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/service_account_id.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4. Specify Account Details
 
-In this article
 
 At the Account Details step of the wizard, do either of the following:
 
@@ -24,6 +24,4 @@ The minimum length of the account ID is 6 characters. The following characters a
 
 [![Adding Service Account](images/service_account_info.webp)](images/service_account_info.webp "Adding Service Account")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

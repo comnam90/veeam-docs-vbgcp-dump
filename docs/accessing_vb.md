@@ -1,5 +1,5 @@
 ---
-title: "accessing_vb"
+title: "Accessing Veeam Backup for Google Cloud"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/accessing_vb.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Accessing Veeam Backup for Google Cloud
 
-In this article
 
 After you install Veeam Backup for Google Cloud and [add backup appliances](adding_appliances.md) to the backup infrastructure, you will be able to back up and restore Google Cloud resources using both the Veeam Backup & Replication console and the Veeam Backup for Google Cloud Web UI.
 
@@ -23,6 +23,4 @@ In This Section
 * [Accessing Web UI from Veeam Backup & Replication Console](accessing_vb_console.md)
 * [Accessing Web UI from Workstation](accessing_vb_workstation.md)
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

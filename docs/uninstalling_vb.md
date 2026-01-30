@@ -1,5 +1,5 @@
 ---
-title: "uninstalling_vb"
+title: "Appendix C. Uninstalling Veeam Backup for Google Cloud"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/uninstalling_vb.html"
@@ -7,8 +7,8 @@ last_updated: "10/2/2024"
 product_version: "7.0.0.47"
 ---
 
+# Appendix C. Uninstalling Veeam Backup for Google Cloud
 
-In this article
 
 Veeam Backup for Google Cloud creates a number of resources while operating in Google Cloud, and these resources are not removed from Google Cloud automatically when you uninstall the solution. That is why you must perform the following steps to uninstall Veeam Backup for Google Cloud:
 
@@ -59,6 +59,4 @@ In the list of topics, locate all topics created by Veeam Backup for Google Clou
 
 1. Repeat steps 8–12 for each project that has ever been added to Veeam Backup for Google Cloud.
 
-Page updated 10/2/2024
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "deploy_network_resources"
+title: "Step 6. Specify Network Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/deploy_network_resources.html"
@@ -7,8 +7,8 @@ last_updated: "12/19/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 6. Specify Network Settings
 
-In this article
 
 At the Networking step of the wizard, do the following:
 
@@ -52,6 +52,4 @@ The IPv4 address ranges must be specified in the CIDR notation (for example, 12.
 
 ![Step 6. Specify Network Settings](images/add_gcp_network_resources.webp)
 
-Page updated 12/19/2025
 
-Page content applies to build 7.0.0.47

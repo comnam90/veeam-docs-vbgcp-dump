@@ -1,5 +1,5 @@
 ---
-title: "add_policy"
+title: "Creating Backup Policies"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/add_policy.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Creating Backup Policies
 
-In this article
 
 You can create backup policies in the Veeam Backup for Google Cloud Web UI only. However, you can launch the Add Policy wizard directly from the Veeam Backup & Replication console — to do that, use either of the following options:
 
@@ -19,6 +19,4 @@ Veeam Backup & Replication will open the Add VM Policy, Add Cloud SQL Policy or 
 
 [![Add backup policy](images/backup_policy_add.webp)](images/backup_policy_add.webp "Add backup policy")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

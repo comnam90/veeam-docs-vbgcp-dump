@@ -1,5 +1,5 @@
 ---
-title: "managing_service_accounts"
+title: "Managing Service Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/managing_service_accounts.html"
@@ -7,8 +7,8 @@ last_updated: "2/7/2024"
 product_version: "7.0.0.47"
 ---
 
+# Managing Service Accounts
 
-In this article
 
 For each data protection and disaster recovery operation performed for a Google Cloud resource, you must specify a service account that has access to the resource and is assigned a set of permissions required to perform the operation.
 
@@ -30,6 +30,4 @@ In This Section
 * [Editing Service Accounts](editing_service_accounts.md)
 * [Removing Service Accounts](removing_service_accounts.md)
 
-Page updated 2/7/2024
 
-Page content applies to build 7.0.0.47

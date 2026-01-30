@@ -1,5 +1,5 @@
 ---
-title: "repository_finish"
+title: "Step 7. Finish Working with Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/repository_finish.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 7. Finish Working with Wizard
 
-In this article
 
 At the Summary step of the wizard, review summary information and click Finish.
 
@@ -16,6 +16,4 @@ As soon as you click Finish, Veeam Backup for Google Cloud will start creating t
 
 [![Adding Backup Repository](images/repository_summary.webp)](images/repository_summary.webp "Adding Backup Repository")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

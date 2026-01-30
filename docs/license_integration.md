@@ -1,5 +1,5 @@
 ---
-title: "license_integration"
+title: "Scenarios"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/license_integration.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Scenarios
 
-In this article
 
 Backup appliances managed by a Veeam Backup & Replication server use the same license that is installed on the backup server. To learn what types of licenses and licensing models are incorporated in Veeam solutions, see:
 
@@ -34,6 +34,4 @@ Veeam Backup for Google Cloud stores information on protected workloads licensed
 
 Note that the loss of connection with Veeam Backup & Replication does not affect restore processes and creating of snapshots manually.
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

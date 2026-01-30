@@ -1,5 +1,5 @@
 ---
-title: "worker_project"
+title: "Specifying Project for Worker Instances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/worker_project.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Specifying Project for Worker Instances
 
-In this article
 
 To specify a project in which worker instances will be created, do the following:
 
@@ -26,6 +26,4 @@ Note that Veeam Backup for Google Cloud does not automatically check whether the
 
 [![Adding Worker Configuration](images/worker_project.webp)](images/worker_project.webp "Adding Worker Configuration")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

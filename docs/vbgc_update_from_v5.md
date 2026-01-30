@@ -1,5 +1,5 @@
 ---
-title: "vbgc_update_from_v5"
+title: "Upgrading to Version 7 from Version 5"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vbgc_update_from_v5.html"
@@ -7,8 +7,8 @@ last_updated: "12/9/2025"
 product_version: "7.0.0.47"
 ---
 
+# Upgrading to Version 7 from Version 5
 
-In this article
 
 When you perform upgrade to version 7 from Veeam Backup for Google Cloud version 5.0, the backup appliance operating system is upgraded from Ubuntu 20.04 LTS to Ubuntu 22.04 LTS, and the configuration database is upgraded to PostgreSQL 16. During upgrade, the original root disk of the backup appliance will be replaced with a new one.
 
@@ -58,6 +58,4 @@ This snapshot will be automatically removed by Veeam Backup & Replication from G
 9. Restores the configuration files and settings saved at step 4 to the new boot disk.
 10. Removes the temporary VM instance.
 
-Page updated 12/9/2025
 
-Page content applies to build 7.0.0.47

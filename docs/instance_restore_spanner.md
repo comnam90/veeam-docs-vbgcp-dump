@@ -1,5 +1,5 @@
 ---
-title: "instance_restore_spanner"
+title: "Instance Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/instance_restore_spanner.html"
@@ -7,8 +7,8 @@ last_updated: "12/19/2025"
 product_version: "7.0.0.47"
 ---
 
+# Instance Restore
 
-In this article
 
 To restore a Cloud Spanner instance from a cloud-native snapshot, Veeam Backup for Google Cloud first creates a Cloud Spanner instance in the target location, copies database snapshots from the source instance, and then uses [native Google Cloud capabilities](https://cloud.google.com/spanner/docs/backup/restore-backup-overview) to revert the databases to their snapshots. Restore of Cloud Spanner instances from cloud-native snapshots is supported only to a new location or with different settings.
 
@@ -32,6 +32,4 @@ If the processed instance contains databases with foreign keys, Veeam Backup for
 
 To learn how to restore a Cloud Spanner instance from a cloud-native snapshot or an image-level backup, see [Performing Spanner Instance Restore](spanner_restore_instance.md).
 
-Page updated 12/19/2025
 
-Page content applies to build 7.0.0.47

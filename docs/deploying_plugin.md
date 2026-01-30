@@ -1,5 +1,5 @@
 ---
-title: "deploying_plugin"
+title: "Deploying Plug-In"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/deploying_plugin.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2025"
 product_version: "7.0.0.47"
 ---
 
+# Deploying Plug-In
 
-In this article
 
 If your installation package of Veeam Backup & Replication does not provide features that allow you to protect Google Cloud resources, you must install Veeam Plug-in for Google Cloud on the backup server to be able to add your backup appliances to the backup infrastructure.
 
@@ -35,6 +35,4 @@ Related Topics
 
 [Installing Plug-In in Unattended Mode](install_unattended.md)
 
-Page updated 11/21/2025
 
-Page content applies to build 7.0.0.47

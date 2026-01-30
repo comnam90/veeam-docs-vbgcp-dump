@@ -1,5 +1,5 @@
 ---
-title: "restore_permissions"
+title: "Restore Permissions"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_permissions.html"
@@ -7,8 +7,8 @@ last_updated: "11/28/2024"
 product_version: "7.0.0.47"
 ---
 
+# Restore Permissions
 
-In this article
 
 To allow Veeam Backup for Google Cloud to perform restore operations, the service account associated with the Google Cloud project that will be used to manage the restored instances must have the following permissions.
 
@@ -40,6 +40,4 @@ Cloud Spanner Restore Permissions
 | --- |
 | spanner.backupOperations.get  spanner.backups.get  spanner.backups.restoreDatabase  spanner.backups.delete  spanner.databaseOperations.get  spanner.databases.create  spanner.databases.list  spanner.databases.update  spanner.instanceConfigOperations.get  spanner.instanceConfigs.create  spanner.instanceConfigs.delete  spanner.instanceConfigs.get  spanner.instanceConfigs.list  spanner.instanceOperations.get  spanner.instances.create  spanner.instances.delete  spanner.instances.get  spanner.instances.list  cloudkms.cryptoKeys.getIamPolicy  cloudkms.cryptoKeys.list  cloudkms.cryptoKeys.setIamPolicy  cloudkms.keyRings.list  compute.projects.get  monitoring.timeSeries.list  resourcemanager.projects.get  spanner.databases.get  spanner.databases.updateDdl  spanner.databases.beginOrRollbackReadWriteTransaction  spanner.databases.beginReadOnlyTransaction  spanner.databases.write  spanner.databases.select  spanner.sessions.create  spanner.sessions.delete  pubsub.subscriptions.consume  pubsub.subscriptions.create  pubsub.subscriptions.delete  pubsub.subscriptions.get  pubsub.subscriptions.list  pubsub.topics.attachSubscription  pubsub.topics.create  pubsub.topics.delete  pubsub.topics.detachSubscription  pubsub.topics.get  pubsub.topics.list  serviceusage.services.list  resourcemanager.projects.get  resourcemanager.projects.getIamPolicy  resourcemanager.projects.setIamPolicy |
 
-Page updated 11/28/2024
 
-Page content applies to build 7.0.0.47

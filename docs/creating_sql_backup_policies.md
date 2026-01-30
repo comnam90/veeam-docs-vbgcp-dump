@@ -1,5 +1,5 @@
 ---
-title: "creating_sql_backup_policies"
+title: "Creating Backup Policies"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/creating_sql_backup_policies.html"
@@ -7,8 +7,8 @@ last_updated: "10/22/2025"
 product_version: "7.0.0.47"
 ---
 
+# Creating Backup Policies
 
-In this article
 
 To create a backup policy, do the following:
 
@@ -24,6 +24,4 @@ To create a backup policy, do the following:
 10. [Check the required permissions](sql_policy_permissions.md).
 11. [Finish working with the wizard](sql_policy_finish.md).
 
-Page updated 10/22/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "project_service_account"
+title: "Step 2. Specify Service Account"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/project_service_account.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 2. Specify Service Account
 
-In this article
 
 At the Service Account step of the wizard, specify a service account that Veeam Backup for Google Cloud will use to access the project or folder, and choose whether you want to define operations that Veeam Backup for Google Cloud will be able to perform with resources managed by the project or folder.
 
@@ -21,6 +21,4 @@ To specify a service account, click the link in the Service account field. For a
 
 [![Adding Project](images/project_service_account.webp)](images/project_service_account.webp "Adding Project")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "uninstalling_plugin"
+title: "Uninstalling Plug-In"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/uninstalling_plugin.html"
@@ -7,8 +7,8 @@ last_updated: "12/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Uninstalling Plug-In
 
-In this article
 
 Before you uninstall Veeam Plug-in for Google Cloud, it is recommended that you [remove all connected backup appliances](removing_appliances.md) from the backup infrastructure. If you keep the appliances in the backup infrastructure, the following will happen:
 
@@ -32,6 +32,4 @@ To uninstall Veeam Plug-in for Google Cloud, do the following:
 | Note |
 | After you uninstall Veeam Plug-in for Google Cloud, you will be no longer able to add backup appliances and cloud repositories to the backup infrastructure. |
 
-Page updated 12/4/2025
 
-Page content applies to build 7.0.0.47

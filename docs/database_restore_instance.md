@@ -1,5 +1,5 @@
 ---
-title: "database_restore_instance"
+title: "Step 4. Configure Target Instance Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/database_restore_instance.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4. Configure Target Instance Settings
 
-In this article
 
 At the Instance step of the wizard, choose a Cloud SQL instance that will host the restored databases. To do that, click the link in the Instance field, select the necessary Cloud SQL instance from the Choose Cloud SQL instance list, and click Apply. For a Cloud SQL instance to be displayed in the list of available instances, it must belong to the selected project and be running on a supported database engine.
 
@@ -26,6 +26,4 @@ You must also specify a Cloud SQL account whose credentials will be used to perf
 
 [![Restoring Cloud SQL Databases](images/database_restore_instance.webp)](images/database_restore_instance.webp "Restoring Cloud SQL Databases")
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

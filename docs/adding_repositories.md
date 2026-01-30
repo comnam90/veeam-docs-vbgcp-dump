@@ -1,5 +1,5 @@
 ---
-title: "adding_repositories"
+title: "Adding Backup Repositories Using Web UI"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/adding_repositories.html"
@@ -7,8 +7,8 @@ last_updated: "7/12/2023"
 product_version: "7.0.0.47"
 ---
 
+# Adding Backup Repositories Using Web UI
 
-In this article
 
 To add a new backup repository, do the following:
 
@@ -20,6 +20,4 @@ To add a new backup repository, do the following:
 6. [Enable encryption for the repository](repository_encryption.md).
 7. [Finish working with the wizard](repository_finish.md).
 
-Page updated 7/12/2023
 
-Page content applies to build 7.0.0.47

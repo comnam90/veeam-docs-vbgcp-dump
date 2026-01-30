@@ -1,5 +1,5 @@
 ---
-title: "spanner_restore_region"
+title: "Step 6. Configure Regional Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/spanner_restore_region.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 6. Configure Regional Settings
 
-In this article
 
 [This step applies only if you have selected the Restore to new location, or with different settings option at the Restore Mode step of the wizard]
 
@@ -27,6 +27,4 @@ However, note that adding read-only replicas may increase read latency in case a
 
 [![Restoring Cloud SQL Instance](images/spanner_restore_region.webp)](images/spanner_restore_region.webp "Restoring Cloud SQL Instance")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

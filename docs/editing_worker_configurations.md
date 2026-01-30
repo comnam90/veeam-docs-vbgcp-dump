@@ -1,5 +1,5 @@
 ---
-title: "editing_worker_configurations"
+title: "Editing Worker Configurations"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_worker_configurations.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing Worker Configurations
 
-In this article
 
 For each worker configuration, you can modify settings specified while adding the worker configuration to Veeam Backup for Google Cloud:
 
@@ -27,6 +27,4 @@ For each worker configuration, you can modify settings specified while adding th
 
 [![Editing Worker Configurations](images/editing_worker_configurations.webp)](images/editing_worker_configurations.webp "Editing Worker Configurations")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

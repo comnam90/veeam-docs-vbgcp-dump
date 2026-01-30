@@ -1,5 +1,5 @@
 ---
-title: "archive_backup_chain_vm"
+title: "Archive Backup Chain"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/archive_backup_chain_vm.html"
@@ -7,8 +7,8 @@ last_updated: "2/2/2024"
 product_version: "7.0.0.47"
 ---
 
+# Archive Backup Chain
 
-In this article
 
 If you enable backup archiving for a backup policy, Veeam Backup for Google Cloud creates a new backup in an archive repository during every archive session. A sequence of backups created during a set of archive sessions makes up an archive backup chain.
 
@@ -34,6 +34,4 @@ Related Topics
 
 [Enabling Backup Archiving](backup_archiving.md)
 
-Page updated 2/2/2024
 
-Page content applies to build 7.0.0.47

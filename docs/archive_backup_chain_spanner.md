@@ -1,5 +1,5 @@
 ---
-title: "archive_backup_chain_spanner"
+title: "Archive Backup Chain"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/archive_backup_chain_spanner.html"
@@ -7,8 +7,8 @@ last_updated: "2/12/2024"
 product_version: "7.0.0.47"
 ---
 
+# Archive Backup Chain
 
-In this article
 
 The archive backup chain includes backups of the following types:
 
@@ -30,6 +30,4 @@ Related Topics
 
 [Enabling Backup Archiving](spanner_backup_archiving.md)
 
-Page updated 2/12/2024
 
-Page content applies to build 7.0.0.47

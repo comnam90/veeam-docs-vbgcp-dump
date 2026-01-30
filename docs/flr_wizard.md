@@ -1,5 +1,5 @@
 ---
-title: "flr_wizard"
+title: "Step 1. Launch File-Level Recovery Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/flr_wizard.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 1. Launch File-Level Recovery Wizard
 
-In this article
 
 To launch the File-Level Recovery wizard, do the following:
 
@@ -17,6 +17,4 @@ To launch the File-Level Recovery wizard, do the following:
 
 [![Restoring VM Files and Folders](images/item_restore_wizard.webp)](images/item_restore_wizard.webp "Restoring VM Files and Folders")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

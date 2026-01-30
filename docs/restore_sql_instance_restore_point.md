@@ -1,5 +1,5 @@
 ---
-title: "restore_sql_instance_restore_point"
+title: "Step 2. Select Restore Point"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_sql_instance_restore_point.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 2. Select Restore Point
 
-In this article
 
 At the SQL instance step of the wizard, choose a restore point that will be used to restore the selected Cloud SQL instance. By default, Veeam Backup & Replication uses the most recent valid restore points. However, you can restore the instance data to an earlier state.
 
@@ -31,6 +31,4 @@ To help you choose a restore point, Veeam Backup & Replication provides the foll
 
 ![Step 2. Select Restore Point](images/restore_sql_instance.webp)
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

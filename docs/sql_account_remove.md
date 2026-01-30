@@ -1,5 +1,5 @@
 ---
-title: "sql_account_remove"
+title: "Removing Cloud SQL Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_account_remove.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Removing Cloud SQL Accounts
 
-In this article
 
 Veeam Backup for Google Cloud allows you to permanently remove a Cloud SQL account from the configuration database if you no longer need it:
 
@@ -23,6 +23,4 @@ Veeam Backup for Google Cloud allows you to permanently remove a Cloud SQL accou
 
 [![Removing Projects](images/sql_accounts_remove.webp)](images/sql_accounts_remove.webp "Removing Projects")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

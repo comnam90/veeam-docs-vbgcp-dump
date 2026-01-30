@@ -1,5 +1,5 @@
 ---
-title: "backup_repositiories"
+title: "Backup Repositories"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_repositiories.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Backup Repositories
 
-In this article
 
 A backup repository is a subdirectory in a Google Cloud storage bucket where Veeam Backup for Google Cloud stores backups of protected VM instances, Cloud SQL instances and Cloud Spanner instances.
 
@@ -31,6 +31,4 @@ To use a storage bucket as a target location for backups, you must connect to a 
 
 Veeam Backup for Google Cloud allows you to store backups in the Standard, Nearline and Archive storage classes. The Coldline storage class is not supported. For more information on storage classes offered by Cloud Storage, see [Google Cloud documentation](https://cloud.google.com/storage/docs/storage-classes).
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

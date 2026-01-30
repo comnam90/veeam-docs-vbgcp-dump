@@ -1,5 +1,5 @@
 ---
-title: "restore_to_nutanix"
+title: "Restoring to Nutanix AHV"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_to_nutanix.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Restoring to Nutanix AHV
 
-In this article
 
 Restoring to Nutanix AHV
 
@@ -39,6 +39,4 @@ Alternatively, right-click the VM instance and select Restore entire VM > Restor
 
 [![Restore to Nutanix AHV](images/restore_to_nutanix.webp)](images/restore_to_nutanix.webp "Restore to Nutanix AHV")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

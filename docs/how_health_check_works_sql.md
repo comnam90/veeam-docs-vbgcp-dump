@@ -1,5 +1,5 @@
 ---
-title: "how_health_check_works_sql"
+title: "How Health Check Works"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/how_health_check_works_sql.html"
@@ -7,8 +7,8 @@ last_updated: "2/2/2024"
 product_version: "7.0.0.47"
 ---
 
+# How Health Check Works
 
-In this article
 
 When Veeam Backup for Google Cloud saves a new restore point to a backup repository, it calculates CRC values for metadata in the backup chain and saves these values to the chain metadata, together with the Cloud SQL instance data. When performing a health check, Veeam Backup for Google Cloud verifies availability of data blocks for each restore point and uses the saved values to ensure that the restore points being verified are consistent.
 
@@ -36,6 +36,4 @@ Depending on the detected data inconsistency, Veeam Backup for Google Cloud perf
 
 * If the health check detects corrupted data blocks in a full or an incremental restore point, Veeam Backup for Google Cloud marks the restore point that includes the corrupted data blocks and all subsequent incremental restore points as incomplete in the configuration database. During the next backup policy session, Veeam Backup for Google Cloud copies not only those data blocks that have changed since the previous backup session but also data blocks that have been corrupted. Veeam Backup for Google Cloud then saves these data blocks to the latest restore point that has been created during the current session.
 
-Page updated 2/2/2024
 
-Page content applies to build 7.0.0.47

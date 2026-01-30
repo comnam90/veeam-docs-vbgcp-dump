@@ -1,5 +1,5 @@
 ---
-title: "flr_permissions"
+title: "Step 4. Run Configuration Checks"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/flr_permissions.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4. Run Configuration Checks
 
-In this article
 
 [This step applies only if you have set the Restore to original location toggle to On at the Restore Mode step of the wizard]
 
@@ -33,6 +33,4 @@ To make sure that the missing permissions have been successfully granted, click 
 
 [![Restoring VM Files and Folders](images/flr_permissions.webp)](images/flr_permissions.webp "Restoring VM Files and Folders")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

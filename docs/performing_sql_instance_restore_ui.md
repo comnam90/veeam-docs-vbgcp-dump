@@ -1,5 +1,5 @@
 ---
-title: "performing_sql_instance_restore_ui"
+title: "Performing SQL Instance Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_sql_instance_restore_ui.html"
@@ -7,8 +7,8 @@ last_updated: "1/10/2024"
 product_version: "7.0.0.47"
 ---
 
+# Performing SQL Instance Restore
 
-In this article
 
 In case a disaster strikes, you can restore an entire Cloud SQL instance from a cloud-native snapshot or image-level backup. Veeam Backup for Google Cloud allows you to restore one or more Cloud SQL instances at a time, to the original location or to a new location.
 
@@ -38,6 +38,4 @@ To restore a protected Cloud SQL instance, do the following:
 | Important |
 | Before you start Cloud SQL instance restore, make sure that network settings are configured for each region where worker instances will be deployed during the restore process. For information on how to configure network settings, see [Adding Worker Configurations](worker_network_settings.md). |
 
-Page updated 1/10/2024
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "deployment"
+title: "Deployment"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/deployment.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Deployment
 
-In this article
 
 To deploy Veeam Backup for Google Cloud, do the following:
 
@@ -27,6 +27,4 @@ Related Topics
 * [Installing Plug-In](deploying_plugin.md)
 * [Deploying Backup Appliance](deploying_appliance.md)
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

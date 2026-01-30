@@ -1,5 +1,5 @@
 ---
-title: "accessing_vb_console"
+title: "Accessing Web UI from Console"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/accessing_vb_console.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Accessing Web UI from Console
 
-In this article
 
 To access the Veeam Backup for Google Cloud Web UI from the Veeam Backup & Replication console, do the following:
 
@@ -22,6 +22,4 @@ Veeam Backup & Replication will open the Veeam Backup for Google Cloud Web UI in
 
 [![Open web UI](images/open_web_console.webp)](images/open_web_console.webp "Open web UI")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

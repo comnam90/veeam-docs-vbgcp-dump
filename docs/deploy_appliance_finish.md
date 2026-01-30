@@ -1,5 +1,5 @@
 ---
-title: "deploy_appliance_finish"
+title: "Step 9. Finish Working with Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/deploy_appliance_finish.html"
@@ -7,8 +7,8 @@ last_updated: "10/23/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 9. Finish Working with Wizard
 
-In this article
 
 At the Summary step of the wizard, review summary information and click Finish. After the backup appliance is deployed, you will be able to configure its settings in the Veeam Backup for Google Cloud Web UI.
 
@@ -19,6 +19,4 @@ At the Summary step of the wizard, review summary information and click Finish. 
 
 ![Step 9. Finish Working with Wizard](images/add_gcp_new_server_finish.webp)
 
-Page updated 10/23/2025
 
-Page content applies to build 7.0.0.47

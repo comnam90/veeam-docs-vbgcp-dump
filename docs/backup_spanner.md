@@ -1,5 +1,5 @@
 ---
-title: "backup_spanner"
+title: "Spanner Backup"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_spanner.html"
@@ -7,8 +7,8 @@ last_updated: "7/30/2024"
 product_version: "7.0.0.47"
 ---
 
+# Spanner Backup
 
-In this article
 
 When processing a Cloud Spanner instance added to a backup policy, Veeam Backup for Google Cloud creates a restore point for the instance and transfers the point directly to a backup repository.
 
@@ -36,6 +36,4 @@ Related Topics
 * [Backup Chain](backup_chain_spanner.md)
 * [Spanner Backup Retention](backup_retention_spanner.md)
 
-Page updated 7/30/2024
 
-Page content applies to build 7.0.0.47

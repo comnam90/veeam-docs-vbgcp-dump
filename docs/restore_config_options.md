@@ -1,5 +1,5 @@
 ---
-title: "restore_config_options"
+title: "Step 5. Choose Restore Options"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_config_options.html"
@@ -7,8 +7,8 @@ last_updated: "11/20/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Choose Restore Options
 
-In this article
 
 By default, Veeam Backup & Replication restores only configuration data for the existing infrastructure components, created backup policies and configured global settings. At the Restore Options step of the wizard, you can choose whether you want to restore session logs and portal users of the initial backup appliance as well.
 
@@ -21,6 +21,4 @@ If you select the Local users check box, Veeam Backup & Replication will restore
 
 ![Step 5. Choose Restore Options](images/config_restore_options.webp)
 
-Page updated 11/20/2025
 
-Page content applies to build 7.0.0.47

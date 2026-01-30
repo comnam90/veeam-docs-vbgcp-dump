@@ -1,5 +1,5 @@
 ---
-title: "accessing_vb_workstation"
+title: "Accessing Web UI from Workstation"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/accessing_vb_workstation.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Accessing Web UI from Workstation
 
-In this article
 
 To access the Veeam Backup for Google Cloud Web UI from a workstation, do the following:
 
@@ -49,6 +49,4 @@ Logging Out
 
 To log out, at the top right corner of the Veeam Backup for Google Cloud window, click the user name and then click Log out.
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

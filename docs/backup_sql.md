@@ -1,5 +1,5 @@
 ---
-title: "backup_sql"
+title: "SQL Backup"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_sql.html"
@@ -7,8 +7,8 @@ last_updated: "4/25/2025"
 product_version: "7.0.0.47"
 ---
 
+# SQL Backup
 
-In this article
 
 When processing a Cloud SQL instance added to a backup policy, Veeam Backup for Google Cloud can create a restore point for the instance and transfer the point directly to a backup repository, or can copy the instance to a staging server first, create a restore point and then transfer it to a repository.
 
@@ -58,6 +58,4 @@ Related Topics
 * [Backup Chain](backup_chain_sql.md)
 * [SQL Backup Retention](backup_retention_sql.md)
 
-Page updated 4/25/2025
 
-Page content applies to build 7.0.0.47

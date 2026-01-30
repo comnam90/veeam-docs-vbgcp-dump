@@ -1,5 +1,5 @@
 ---
-title: "editing_appliances"
+title: "Editing Appliance Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_appliances.html"
@@ -7,8 +7,8 @@ last_updated: "10/9/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing Appliance Settings
 
-In this article
 
 For each backup appliance managed by the backup server, you can modify the settings configured while adding the appliance to the backup infrastructure:
 
@@ -30,6 +30,4 @@ Alternatively, you can right-click the appliance and select Properties.
 
 [![Edit appliance](images/edit_gcp_appliance.webp)](images/edit_gcp_appliance.webp "Edit appliance")
 
-Page updated 10/9/2025
 
-Page content applies to build 7.0.0.47

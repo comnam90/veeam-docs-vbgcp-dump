@@ -1,5 +1,5 @@
 ---
-title: "spanner_policy_regions"
+title: "Step 4a. Choose Regions"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/spanner_policy_regions.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4a. Choose Regions
 
-In this article
 
 In the Regions section of the Resources step of the wizard, choose regions in which Cloud Spanner instances that you want to protect reside.
 
@@ -24,6 +24,4 @@ In the Regions section of the Resources step of the wizard, choose regions in wh
 
 [![Adding Backup Policy](images/spanner_policy_regions.webp)](images/spanner_policy_regions.webp "Adding Backup Policy")
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

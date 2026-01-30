@@ -1,5 +1,5 @@
 ---
-title: "connect_appliance_instance"
+title: "Step 4. Select Appliance"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/connect_appliance_instance.html"
@@ -7,8 +7,8 @@ last_updated: "11/5/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4. Select Appliance
 
-In this article
 
 At the Virtual Machine step of the wizard, select the backup appliance that you want to add to the backup infrastructure:
 
@@ -18,6 +18,4 @@ At the Virtual Machine step of the wizard, select the backup appliance that you 
 
 ![Step 4. Select Appliance](images/add_server_instance.webp)
 
-Page updated 11/5/2025
 
-Page content applies to build 7.0.0.47

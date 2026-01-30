@@ -1,5 +1,5 @@
 ---
-title: "instant_recovery"
+title: "Instant Recovery"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/instant_recovery.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Instant Recovery
 
-In this article
 
 Veeam Backup & Replication allows you to use the Instant Recovery feature to restore VM instances from image-level backups to VMware vSphere and Microsoft Hyper-V environments, and to Nutanix AHV clusters. For more information, see the Veeam Backup & Replication User Guide, section [Instant Recovery](https://tw-preview.dev.amust.local/html/vbr/13.0.1/userguide/vm_recovery_all.html?ver=13).
 
@@ -30,6 +30,4 @@ To perform Instant Recovery, do the following:
 
 [![Instant Recovery to VMware vSphere, Hyper-V or to Nutanix AHV](images/instant_recovery.webp)](images/instant_recovery.webp "Instant Recovery to VMware vSphere, Hyper-V or to Nutanix AHV")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

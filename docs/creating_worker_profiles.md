@@ -1,5 +1,5 @@
 ---
-title: "creating_worker_profiles"
+title: "Adding Worker Profiles"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/creating_worker_profiles.html"
@@ -7,8 +7,8 @@ last_updated: "3/4/2024"
 product_version: "7.0.0.47"
 ---
 
+# Adding Worker Profiles
 
-In this article
 
 To add a new custom set of worker profiles for one or more regions, do the following:
 
@@ -17,6 +17,4 @@ To add a new custom set of worker profiles for one or more regions, do the follo
 3. [Choose the default, secondary and archiving profiles for worker instances in these regions](profiles_selection.md).
 4. [Finish working with the wizard](profiles_finish.md).
 
-Page updated 3/4/2024
 
-Page content applies to build 7.0.0.47

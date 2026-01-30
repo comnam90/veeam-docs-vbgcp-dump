@@ -1,5 +1,5 @@
 ---
-title: "editing_policies_settings"
+title: "Editing Backup Policy Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_policies_settings.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing Backup Policy Settings
 
-In this article
 
 You can edit backup policies in the Veeam Backup for Google Cloud Web UI only. However, you can launch the edit policy wizard directly from the Veeam Backup & Replication console:
 
@@ -22,6 +22,4 @@ Veeam Backup & Replication will open the Edit Policy wizard in a web browser. Co
 
 [![Edit backup policy](images/edit_backup_policies.webp)](images/edit_backup_policies.webp "Edit backup policy")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

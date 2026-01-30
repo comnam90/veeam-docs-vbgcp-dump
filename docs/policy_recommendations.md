@@ -1,5 +1,5 @@
 ---
-title: "policy_recommendations"
+title: "Backup Policies"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/policy_recommendations.html"
@@ -7,8 +7,8 @@ last_updated: "6/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Backup Policies
 
-In this article
 
 Since one backup policy can be used to protect multiple workloads at the same time, it is recommended that you limit the number of processed workloads to simplify the backup schedule and to optimize the backup performance. As a result, you will have have several small policies instead of a big one.
 
@@ -30,6 +30,4 @@ Keep in mind that changing these values may induce additional monitoring of the 
 | Important |
 | It is not recommended to manually change the default limit for policies processed simultaneously — to adjust the limit, open a [support case](collecting_logs.md). |
 
-Page updated 6/13/2025
 
-Page content applies to build 7.0.0.47

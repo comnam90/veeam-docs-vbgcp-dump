@@ -1,5 +1,5 @@
 ---
-title: "integration_vbr"
+title: "Integration with Veeam Backup & Replication"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/integration_vbr.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2024"
 product_version: "7.0.0.47"
 ---
 
+# Integration with Veeam Backup & Replication
 
-In this article
 
 Starting from Veeam Backup for Google Cloud 5.0, Veeam Plug-in for Google Cloud became part of the Veeam Backup for Google Cloud solution. Veeam Backup for Google Cloud extends the Veeam Backup & Replication functionality and allows you to add backup appliances to Veeam Backup & Replication. With Veeam Plug-in for Google Cloud, you can manage data protection and recovery operations for all these appliances from a single Veeam Backup & Replication console.
 
@@ -23,6 +23,4 @@ Related Topics
 
 [Protecting Cloud Spanner Instances](overview_spanner.md)
 
-Page updated 11/21/2024
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "service_account_wizard"
+title: "Step 1. Launch Add Service Account Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/service_account_wizard.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 1. Launch Add Service Account Wizard
 
-In this article
 
 To launch the Add Service Account wizard, do the following:
 
@@ -18,6 +18,4 @@ To launch the Add Service Account wizard, do the following:
 
 [![Adding Service Account](images/service_account_wizard.webp)](images/service_account_wizard.webp "Adding Service Account")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

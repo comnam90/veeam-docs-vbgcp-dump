@@ -1,5 +1,5 @@
 ---
-title: "viewing_resources"
+title: "Viewing Available Resources"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/viewing_resources.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Viewing Available Resources
 
-In this article
 
 After you create a backup policy to protect a specific type of Google Cloud resources (VM instances, Cloud SQL instances or Cloud Spanner instances), Veeam Backup for Google Cloud rescans Google Cloud regions specified in the policy settings and populates the resource list on the Resources page with all resources of that type residing in these regions. If a region is no longer specified in any backup policy, Veeam Backup for Google Cloud removes all resources residing in the region from the list of available resources.
 
@@ -29,6 +29,4 @@ On the Resources page, you can also perform the following actions:
 
 [![Viewing Available Resources](images/viewing_resources.webp)](images/viewing_resources.webp "Viewing Available Resources")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "managing_backup_policies"
+title: "Managing Backup Policies"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/managing_backup_policies.html"
@@ -7,8 +7,8 @@ last_updated: "2/7/2024"
 product_version: "7.0.0.47"
 ---
 
+# Managing Backup Policies
 
-In this article
 
 You can manage and edit created VM, Cloud SQL and Cloud Spanner backup policies, and view each backup policy details in Veeam Backup for Google Cloud. You can also remove backup policies that you do not use anymore, export existing or import new backup policies.
 
@@ -20,6 +20,4 @@ In This Section
 * [Editing Backup Policy Settings](editing_backup_policies.md)
 * [Exporting and Importing Policies](exporting_importing_backup_policies.md)
 
-Page updated 2/7/2024
 
-Page content applies to build 7.0.0.47

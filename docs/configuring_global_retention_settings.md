@@ -1,5 +1,5 @@
 ---
-title: "configuring_global_retention_settings"
+title: "Configuring Global Retention Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/configuring_global_retention_settings.html"
@@ -7,8 +7,8 @@ last_updated: "11/12/2025"
 product_version: "7.0.0.47"
 ---
 
+# Configuring Global Retention Settings
 
-In this article
 
 You can configure global retention settings to specify for how long the following data will be retained in the configuration database:
 
@@ -66,6 +66,4 @@ If you select this option, Veeam Backup for Google Cloud will remove all session
 
 [![Configuring Retention Settings](images/retention_settings.webp)](images/retention_settings.webp "Configuring Retention Settings")
 
-Page updated 11/12/2025
 
-Page content applies to build 7.0.0.47

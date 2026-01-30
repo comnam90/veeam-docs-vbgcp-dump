@@ -1,5 +1,5 @@
 ---
-title: "sql_restore_console"
+title: "SQL Restore Using Console"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_restore_console.html"
@@ -7,8 +7,8 @@ last_updated: "11/22/2024"
 product_version: "7.0.0.47"
 ---
 
+# SQL Restore Using Console
 
-In this article
 
 Veeam Backup & Replication offers the following restore operations:
 
@@ -32,6 +32,4 @@ Before you start restoring Cloud SQL instance data, consider the following limit
 
 As a workaround, you can either restore the instance databases individually, or change the edition of the restored instance as described in [Google Cloud documentation](https://cloud.google.com/sql/docs/mysql/editions-intro#edition-migrate).
 
-Page updated 11/22/2024
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "flr_restore_point"
+title: "Step 2. Select Restore Point"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/flr_restore_point.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 2. Select Restore Point
 
-In this article
 
 At the Instances step of the wizard, select a restore point that will be used to recover files and folders of the selected VM instance. By default, Veeam Backup for Google Cloud uses the most recent restore point. However, you can recover the items to an earlier state.
 
@@ -37,6 +37,4 @@ To help you choose a restore point, Veeam Backup for Google Cloud provides the f
 
 [![Restoring VM Files and Folders](images/item_restore_point.webp)](images/item_restore_point.webp "Restoring VM Files and Folders")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

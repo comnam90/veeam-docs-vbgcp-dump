@@ -1,5 +1,5 @@
 ---
-title: "backup_policy_target"
+title: "Step 5. Configure Backup Target Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_policy_target.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Configure Backup Target Settings
 
-In this article
 
 By default, backup policies create only cloud-native snapshots of processed instances. At the Targets step of the wizard, you can specify a location for the created snapshots and enable additional data protection scenarios.
 
@@ -44,6 +44,4 @@ For more information on the backup archiving mechanism, see [Enabling Backup Arc
 
 [![Adding Backup Policy](images/policy_repository.webp)](images/policy_repository.webp "Adding Backup Policy")
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

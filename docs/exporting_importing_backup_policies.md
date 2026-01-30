@@ -1,5 +1,5 @@
 ---
-title: "exporting_importing_backup_policies"
+title: "Exporting and Importing Backup Policies"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/exporting_importing_backup_policies.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2025"
 product_version: "7.0.0.47"
 ---
 
+# Exporting and Importing Backup Policies
 
-In this article
 
 Veeam Backup for Google Cloud allows you to use settings of an existing backup policy as a template for creating other backup policies. You can export a backup policy to a .JSON file, modify the necessary settings in the file, and then import the policy to the same or a different backup appliance.
 
@@ -33,6 +33,4 @@ To import a backup policy from a .JSON file, do the following:
 
 [![Importing Backup Policy](images/importing_backup_policy.webp)](images/importing_backup_policy.webp "Importing Backup Policy")
 
-Page updated 11/21/2025
 
-Page content applies to build 7.0.0.47

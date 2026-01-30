@@ -1,5 +1,5 @@
 ---
-title: "licensing"
+title: "Licensing"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/licensing.html"
@@ -7,8 +7,8 @@ last_updated: "11/28/2024"
 product_version: "7.0.0.47"
 ---
 
+# Licensing
 
-In this article
 
 Veeam Backup for Google Cloud is licensed by the number of protected instances. An instance is defined as a single Google Cloud resource — a VM, Cloud SQL or Cloud Spanner instance. An instance is considered to be protected if it has a restore point (snapshot or backup) created by a backup policy during the past 31 days. Each protected instance consumes one license unit from the license scope. However, if an instance has only snapshots created manually, it does not consume any license units.
 
@@ -32,6 +32,4 @@ In This Section
 * [Viewing License Information](viewing_license_information.md)
 * [Revoking License Units](revoking_license_units.md)
 
-Page updated 11/28/2024
 
-Page content applies to build 7.0.0.47

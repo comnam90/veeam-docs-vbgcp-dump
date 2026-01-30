@@ -1,5 +1,5 @@
 ---
-title: "removing_repositories"
+title: "Removing Backup Repositories"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/removing_repositories.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2025"
 product_version: "7.0.0.47"
 ---
 
+# Removing Backup Repositories
 
-In this article
 
 The consequences of actions performed with a backup repository depend on whether the repository has been added to the backup infrastructure using the Veeam Backup & Replication console or the Veeam Backup for Google Cloud Web UI.
 
@@ -51,6 +51,4 @@ To remove a backup repository, do the following:
 
 [![Removing Backup Repositories](images/removing_repositories_ui.webp)](images/removing_repositories_ui.webp "Removing Backup Repositories")
 
-Page updated 11/21/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "performing_vm_backup"
+title: "Performing VM Backup"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_vm_backup.html"
@@ -7,8 +7,8 @@ last_updated: "8/30/2023"
 product_version: "7.0.0.47"
 ---
 
+# Performing VM Backup
 
-In this article
 
 One backup policy can be used to process one or more VM instances within one Google Cloud project or folder. The scope of data that you can protect in a project or folder is limited by permissions of a service account that is specified in the backup policy settings.
 
@@ -19,6 +19,4 @@ Before you create a VM backup policy, check the following prerequisites:
 
 To schedule data protection tasks to run automatically, [create backup policies](creating_vm_backup_policies.md). For each protected VM instance, you can also [take a cloud-native snapshot manually](creating_manual_snapshots_vms.md) when needed.
 
-Page updated 8/30/2023
 
-Page content applies to build 7.0.0.47

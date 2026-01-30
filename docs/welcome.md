@@ -1,5 +1,5 @@
 ---
-title: "welcome"
+title: "Overview"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/welcome.html"
@@ -7,8 +7,8 @@ last_updated: "12/17/2024"
 product_version: "7.0.0.47"
 ---
 
+# Overview
 
-In this article
 
 Veeam Backup for Google Cloud is a solution developed for protection and disaster recovery tasks for Google Cloud environments. With Veeam Backup for Google Cloud, you can perform the following operations:
 
@@ -23,6 +23,4 @@ Veeam Backup for Google Cloud is a solution developed for protection and disaste
 * [Available only for backup appliances managed by Veeam Backup & Replication] Perform Instant Recovery of VM instances to VMware vSphere and Hyper-V environments, and to Nutanix AHV clusters.
 * Restore entire Cloud Spanner instances and specific Cloud Spanner databases.
 
-Page updated 12/17/2024
 
-Page content applies to build 7.0.0.47

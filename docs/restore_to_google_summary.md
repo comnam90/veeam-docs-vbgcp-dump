@@ -1,5 +1,5 @@
 ---
-title: "restore_to_google_summary"
+title: "Step 9. Finish Working with Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_to_google_summary.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 9. Finish Working with Wizard
 
-In this article
 
 At the Summary step of the wizard, review summary information and click Finish.
 
@@ -19,6 +19,4 @@ At the Summary step of the wizard, review summary information and click Finish.
 
 ![Step 9. Finish Working with Wizard](images/restore_to_google_summary.webp)
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

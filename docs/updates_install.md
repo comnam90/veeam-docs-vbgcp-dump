@@ -1,5 +1,5 @@
 ---
-title: "updates_install"
+title: "Installing Updates"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/updates_install.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Installing Updates
 
-In this article
 
 To download and install new available package updates, you can use either of the following options:
 
@@ -91,6 +91,4 @@ If you select the Next Week option, Veeam Backup for Google Cloud will send the 
 
 [![Sending Reminder](images/updates_reminder.webp)](images/updates_reminder.webp "Sending Reminder")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

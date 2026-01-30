@@ -1,5 +1,5 @@
 ---
-title: "vm_restore_mode"
+title: "Step 3. Choose Restore Mode"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vm_restore_mode.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Choose Restore Mode
 
-In this article
 
 At the Restore Mode step of the wizard, choose whether you want to restore the selected VM instance to the original or to a custom location.
 
@@ -19,6 +19,4 @@ At the Restore Mode step of the wizard, choose whether you want to restore the s
 
 [![Restoring VM Instance](images/vm_restore_mode.webp)](images/vm_restore_mode.webp "Restoring VM Instance")
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

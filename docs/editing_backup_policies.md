@@ -1,5 +1,5 @@
 ---
-title: "editing_backup_policies"
+title: "Editing Backup Policy Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_backup_policies.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing Backup Policy Settings
 
-In this article
 
 For each backup policy, you can modify settings configured while creating the policy:
 
@@ -39,6 +39,4 @@ Related Topics
 
 [Setting Backup Policy Priority](backup_policy_priority.md)
 
-Page updated 11/21/2025
 
-Page content applies to build 7.0.0.47

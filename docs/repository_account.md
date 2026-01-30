@@ -1,5 +1,5 @@
 ---
-title: "repository_account"
+title: "Step 4. Specify Service Account"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/repository_account.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4. Specify Service Account
 
-In this article
 
 At the Service Account step of the wizard, do the following:
 
@@ -27,6 +27,4 @@ You can create the necessary HMAC key beforehand in the Google Cloud console as 
 
 [![Adding Backup Repository](images/repository_account.webp)](images/repository_account.webp "Adding Backup Repository")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

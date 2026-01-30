@@ -1,5 +1,5 @@
 ---
-title: "service_account_progress"
+title: "Step 5. Track Account Creation Progress"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/service_account_progress.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Track Account Creation Progress
 
-In this article
 
 [This step applies only if you have selected the Create new account option at the Service Account step of the wizard]
 
@@ -16,6 +16,4 @@ Veeam Backup for Google Cloud will display the results of every step performed w
 
 [![Adding Service Account](images/service_account_log.webp)](images/service_account_log.webp "Adding Service Account")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

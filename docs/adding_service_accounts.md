@@ -1,5 +1,5 @@
 ---
-title: "adding_service_accounts"
+title: "Adding Service Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/adding_service_accounts.html"
@@ -7,8 +7,8 @@ last_updated: "1/5/2024"
 product_version: "7.0.0.47"
 ---
 
+# Adding Service Accounts
 
-In this article
 
 To add a new service account, do the following:
 
@@ -19,6 +19,4 @@ To add a new service account, do the following:
 5. [Track the account creation progress](service_account_progress.md).
 6. [Finish working with the wizard](service_account_finish.md).
 
-Page updated 1/5/2024
 
-Page content applies to build 7.0.0.47

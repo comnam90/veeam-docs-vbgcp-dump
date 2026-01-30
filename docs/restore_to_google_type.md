@@ -1,5 +1,5 @@
 ---
-title: "restore_to_google_type"
+title: "Step 5. Specify Instance Type and Encryption"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_to_google_type.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Specify Instance Type and Encryption
 
-In this article
 
 [This step applies only if you have selected the Restore to a new location, or with different settings option at the Restore Mode step of the wizard]
 
@@ -32,6 +32,4 @@ For a CMEK to be displayed in the list of available encryption keys, it must be 
 
 ![Step 5. Specify Instance Type and Encryption](images/restore_to_google_type.webp)
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

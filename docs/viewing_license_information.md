@@ -1,5 +1,5 @@
 ---
-title: "viewing_license_information"
+title: "Viewing License Information"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/viewing_license_information.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Viewing License Information
 
-In this article
 
 After you add a backup appliance to the backup infrastructure, you can view the number of protected workloads in the Veeam Backup & Replication console.
 
@@ -76,6 +76,4 @@ Related Topics
 * [Installing and Removing License](installing_license.md)
 * [Getting Technical Support](collecting_logs.md)
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

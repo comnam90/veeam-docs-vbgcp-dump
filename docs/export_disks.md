@@ -1,5 +1,5 @@
 ---
-title: "export_disks"
+title: "Exporting Disks"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/export_disks.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Exporting Disks
 
-In this article
 
 Veeam Backup & Replication allows you to export disks, that is, to restore disks of VM instances from image-level backups created by Veeam Backup for Google Cloud and to convert them to the VMDK, VHD or VHDX format. You can save the converted disks to any server added to the backup infrastructure or place the disks on a datastore connected to an ESXi host (for the VMDK disk format only). For more information, see the Veeam Backup & Replication User Guide, section [Disk Export](https://helpcenter.veeam.com/docs/vbr/userguide/disk_export.html?ver=13).
 
@@ -26,6 +26,4 @@ To export disks of a VM instance, do the following:
 
 [![Export disks](images/export_disks.webp)](images/export_disks.webp "Export disks")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

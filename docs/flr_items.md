@@ -1,5 +1,5 @@
 ---
-title: "flr_items"
+title: "Step 7. Choose Items to Recover"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/flr_items.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 7. Choose Items to Recover
 
-In this article
 
 In the file-level recovery browser, you can find and recover items (files and folders) of the selected VM instance:
 
@@ -28,6 +28,4 @@ In the file-level recovery browser, you can find and recover items (files and fo
 
 [![Restoring VM Files and Folders](images/item_restore_download.webp)](images/item_restore_download.webp "Restoring VM Files and Folders")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

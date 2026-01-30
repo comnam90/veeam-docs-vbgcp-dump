@@ -1,5 +1,5 @@
 ---
-title: "managing_worker_profiles"
+title: "Managing Worker Profiles"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/managing_worker_profiles.html"
@@ -7,8 +7,8 @@ last_updated: "8/12/2024"
 product_version: "7.0.0.47"
 ---
 
+# Managing Worker Profiles
 
-In this article
 
 A profile is the machine type of a worker instance that Veeam Backup for Google Cloud deploys in a specific Google Cloud region to perform a backup or archive operation. Veeam Backup for Google Cloud deploys one worker instance per each Google Cloud resource (whether it is a VM instance, a Cloud SQL instance or a Cloud Spanner instance) added to a backup policy. The profile of each deployed worker instance is selected based on the regional quota.
 
@@ -31,6 +31,4 @@ In This Section
 * [Editing Worker Profiles](editing_worker_profiles.md)
 * [Removing Worker Profiles](removing_worker_profiles.md)
 
-Page updated 8/12/2024
 
-Page content applies to build 7.0.0.47

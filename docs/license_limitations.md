@@ -1,5 +1,5 @@
 ---
-title: "license_limitations"
+title: "Limitations"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/license_limitations.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Limitations
 
-In this article
 
 Keep in mind the following limitations and considerations:
 
@@ -19,6 +19,4 @@ To obtain an additional license, contact a Veeam sales representative at [Sales 
 
 * If an instance has not been backed up within the past 31 days, Veeam Backup for Google Cloud automatically revokes the license unit from the instance. If you need to manually revoke a license unit, follow the instructions provided in section [Revoking License Units](revoking_license_units.md).
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "schedule_monthly"
+title: "Specifying Monthly Schedule"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/schedule_monthly.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Specifying Monthly Schedule
 
-In this article
 
 To create a monthly schedule for the backup policy, at the Schedule step of the wizard, do the following:
 
@@ -39,6 +39,4 @@ If a restore point is older than the specified time limit, Veeam Backup for Goog
 
 [![Adding Backup Policy](images/policy_monthly_schedule.webp)](images/policy_monthly_schedule.webp "Adding Backup Policy")
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

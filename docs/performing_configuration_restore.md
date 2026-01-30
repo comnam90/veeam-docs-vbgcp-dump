@@ -1,5 +1,5 @@
 ---
-title: "performing_configuration_restore"
+title: "Performing Configuration Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_configuration_restore.html"
@@ -7,8 +7,8 @@ last_updated: "7/20/2023"
 product_version: "7.0.0.47"
 ---
 
+# Performing Configuration Restore
 
-In this article
 
 Veeam Backup for Google Cloud offers restore of the configuration database that can be helpful in the following situations:
 
@@ -22,6 +22,4 @@ In This Section
 * [Restoring Configuration Data Using Console](performing_configuration_restore_console.md)
 * [Restoring Configuration Data Using Web UI](performing_configuration_restore_ui.md)
 
-Page updated 7/20/2023
 
-Page content applies to build 7.0.0.47

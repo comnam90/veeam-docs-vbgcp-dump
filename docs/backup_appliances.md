@@ -1,5 +1,5 @@
 ---
-title: "backup_appliances"
+title: "Backup Appliances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_appliances.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Backup Appliances
 
-In this article
 
 A backup appliance is a Linux-based VM instance where Veeam Backup for Google Cloud is installed. The backup appliance performs the following administrative activities:
 
@@ -49,6 +49,4 @@ The backup appliance uses the following components:
 * Self Backup service — allows Veeam Backup for Google Cloud to back up and restore the configuration database of the backup appliance.
 * REST API service — allows users to perform operations with Veeam Backup for Google Cloud entities using HTTP requests and standard HTTP methods. For details, see the [Veeam Backup for Google Cloud REST API Reference](https://helpcenter.veeam.com/docs/vbgc/rest/overview.html?ver=50).
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

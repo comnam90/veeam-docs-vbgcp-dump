@@ -1,5 +1,5 @@
 ---
-title: "connect_appliance_repo"
+title: "Step 7. Configure Repository Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/connect_appliance_repo.html"
@@ -7,8 +7,8 @@ last_updated: "12/2/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 7. Configure Repository Settings
 
-In this article
 
 At the Repositories step of the wizard, a list of all standard and archive repositories already configured on the selected backup appliance will be displayed. After you complete the wizard, Veeam Backup & Replication will automatically add these repositories to the backup infrastructure.
 
@@ -49,6 +49,4 @@ Related Topics
 
 [Managing Backed-Up Data](managing_data_console.md)
 
-Page updated 12/2/2025
 
-Page content applies to build 7.0.0.47

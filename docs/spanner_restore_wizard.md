@@ -1,5 +1,5 @@
 ---
-title: "spanner_restore_wizard"
+title: "Step 1. Launch Cloud Spanner Instance Restore Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/spanner_restore_wizard.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 1. Launch Cloud Spanner Instance Restore Wizard
 
-In this article
 
 To launch the Cloud Spanner Instance Restore wizard, do the following:
 
@@ -17,6 +17,4 @@ To launch the Cloud Spanner Instance Restore wizard, do the following:
 
 [![Restoring Cloud SQL Instance](images/spanner_restore_wizard.webp)](images/spanner_restore_wizard.webp "Restoring Cloud SQL Instance")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

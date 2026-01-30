@@ -1,5 +1,5 @@
 ---
-title: "profiles_wizard"
+title: "Step 1. Launch Add Worker Profiles Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/profiles_wizard.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 1. Launch Add Worker Profiles Wizard
 
-In this article
 
 To launch the Add Worker Profiles wizard, do the following:
 
@@ -18,6 +18,4 @@ To launch the Add Worker Profiles wizard, do the following:
 
 [![Adding Worker Profiles](images/profiles_wizard.webp)](images/profiles_wizard.webp "Adding Worker Profiles")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

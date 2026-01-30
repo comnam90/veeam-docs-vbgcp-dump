@@ -1,5 +1,5 @@
 ---
-title: "managing_permissions"
+title: "Managing User Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/managing_permissions.html"
@@ -7,8 +7,8 @@ last_updated: "6/24/2025"
 product_version: "7.0.0.47"
 ---
 
+# Managing User Accounts
 
-In this article
 
 Veeam Backup for Google Cloud controls access to its functionality with the help of user roles. A role defines what operations users can perform and what range of data is available to them in the Veeam Backup for Google Cloud UI.
 
@@ -45,6 +45,4 @@ In This Section
 * [Changing User Passwords](changing_passwords.md)
 * [Enabling Multi-Factor Authentication](enabling_mfa.md)
 
-Page updated 6/24/2025
 
-Page content applies to build 7.0.0.47

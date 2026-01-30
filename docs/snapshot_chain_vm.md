@@ -1,5 +1,5 @@
 ---
-title: "snapshot_chain_vm"
+title: "Snapshot Chain"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/snapshot_chain_vm.html"
@@ -7,8 +7,8 @@ last_updated: "6/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Snapshot Chain
 
-In this article
 
 During every backup session, Veeam Backup for Google Cloud creates a cloud-native snapshot of each VM instance added to a backup policy. The cloud-native snapshot itself is a collection of point-in-time snapshots that Veeam Backup for Google Cloud creates using native Google Cloud capabilities.
 
@@ -37,6 +37,4 @@ Cloud-native snapshots act as independent restore points for backed-up instances
 
 The number of cloud-native snapshots kept in the snapshot chain is defined by retention policy settings. For more information, see [VM Snapshot Retention](snapshot_retention_vm.md).
 
-Page updated 6/13/2025
 
-Page content applies to build 7.0.0.47

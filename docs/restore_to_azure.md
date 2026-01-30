@@ -1,5 +1,5 @@
 ---
-title: "restore_to_azure"
+title: "Restoring to Microsoft Azure"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_to_azure.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Restoring to Microsoft Azure
 
-In this article
 
 Veeam Backup & Replication allows you to restore VM instances from image-level backups created with Veeam Backup for Google Cloud to Microsoft Azure as Azure VMs. You can restore VM instances to any available restore point. For more information, see the Veeam Backup & Replication User Guide, section [Restore to Microsoft Azure](https://helpcenter.veeam.com/docs/vbr/userguide/restore_azure.html?ver=13).
 
@@ -33,6 +33,4 @@ To restore a VM instance to Microsoft Azure, do the following:
 
 [![Restore to Azure](images/restore_to_azure.webp)](images/restore_to_azure.webp "Restore to Azure")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

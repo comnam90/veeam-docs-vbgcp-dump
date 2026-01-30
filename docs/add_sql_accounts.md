@@ -1,5 +1,5 @@
 ---
-title: "add_sql_accounts"
+title: "Adding Cloud SQL Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/add_sql_accounts.html"
@@ -7,8 +7,8 @@ last_updated: "1/12/2024"
 product_version: "7.0.0.47"
 ---
 
+# Adding Cloud SQL Accounts
 
-In this article
 
 To add a new Cloud SQL account, do the following:
 
@@ -17,6 +17,4 @@ To add a new Cloud SQL account, do the following:
 3. [Specify general settings](sql_account_password.md).
 4. [Finish working with the wizard](sql_account_summary.md).
 
-Page updated 1/12/2024
 
-Page content applies to build 7.0.0.47

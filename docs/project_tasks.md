@@ -1,5 +1,5 @@
 ---
-title: "project_tasks"
+title: "Step 3. Define Operations"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/project_tasks.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Define Operations
 
-In this article
 
 [This step applies only if you have selected the Specify granular roles check box at the Service Account step of the wizard]
 
@@ -33,6 +33,4 @@ In the Workload permissions section, choose workloads that will be protected usi
 
 [![Adding Project](images/project_tasks.webp)](images/project_tasks.webp "Adding Project")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

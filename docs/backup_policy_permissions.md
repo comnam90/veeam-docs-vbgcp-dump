@@ -1,5 +1,5 @@
 ---
-title: "backup_policy_permissions"
+title: "Step 10. Check Required Permissions"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_policy_permissions.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 10. Check Required Permissions
 
-In this article
 
 At the Permissions step of the wizard, Veeam Backup for Google Cloud will verify whether the specified service account has all the necessary permissions required to perform data protection tasks for the selected project or folder. For more information on the required permissions, see [Service Account Permissions](permissions.md).
 
@@ -31,6 +31,4 @@ To make sure that the missing permissions have been successfully granted, click 
 
 [![Adding Backup Policy](images/policy_permissions.webp)](images/policy_permissions.webp "Adding Backup Policy")
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

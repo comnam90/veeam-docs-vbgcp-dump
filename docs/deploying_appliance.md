@@ -1,5 +1,5 @@
 ---
-title: "deploying_appliance"
+title: "Deploying Backup Appliance"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/deploying_appliance.html"
@@ -7,8 +7,8 @@ last_updated: "12/19/2025"
 product_version: "7.0.0.47"
 ---
 
+# Deploying Backup Appliance
 
-In this article
 
 |  |
 | --- |
@@ -49,6 +49,4 @@ Related Topics
 
 [Connecting to Existing Appliances](connecting_existing_appliance.md)
 
-Page updated 12/19/2025
 
-Page content applies to build 7.0.0.47

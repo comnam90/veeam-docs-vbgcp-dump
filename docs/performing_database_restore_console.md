@@ -1,5 +1,5 @@
 ---
-title: "performing_database_restore_console"
+title: "Performing Database Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_database_restore_console.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Performing Database Restore
 
-In this article
 
 In case a disaster strikes, you can restore corrupted databases of Cloud SQL instance from an image-level backup. Veeam Backup & Replication allows you to restore databases to the original location or to a new location.
 
@@ -26,6 +26,4 @@ Veeam Backup & Replication will open the Data Restore wizard in a web browser. C
 
 [![Database restore](images/restore_database_sql_launch.webp)](images/restore_database_sql_launch.webp "Database restore")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

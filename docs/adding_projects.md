@@ -1,5 +1,5 @@
 ---
-title: "adding_projects"
+title: "Adding Projects and Folders"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/adding_projects.html"
@@ -7,8 +7,8 @@ last_updated: "3/4/2024"
 product_version: "7.0.0.47"
 ---
 
+# Adding Projects and Folders
 
-In this article
 
 To add a new project or folder, do the following:
 
@@ -19,6 +19,4 @@ To add a new project or folder, do the following:
 5. [Check the required permissions](project_permissions.md).
 6. [Finish working with the wizard](project_finish.md).
 
-Page updated 3/4/2024
 
-Page content applies to build 7.0.0.47

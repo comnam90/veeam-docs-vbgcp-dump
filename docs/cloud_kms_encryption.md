@@ -1,5 +1,5 @@
 ---
-title: "cloud_kms_encryption"
+title: "Cloud KMS Encryption"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/cloud_kms_encryption.html"
@@ -7,8 +7,8 @@ last_updated: "7/30/2024"
 product_version: "7.0.0.47"
 ---
 
+# Cloud KMS Encryption
 
-In this article
 
 Veeam Backup for Google Cloud allows you to back up and restore data of encrypted Cloud Spanner databases, Cloud SQL instances and VM instances whose persistent disks are encrypted with Google Cloud KMS. Additionally, you can choose to encrypt data with original CMEKs or change CMEKs used to encrypt data when performing the following operations:
 
@@ -134,6 +134,4 @@ To encrypt the created disks, Veeam Backup for Google Cloud requires permissions
 
 1. Removes the worker instance from Google Cloud.
 
-Page updated 7/30/2024
 
-Page content applies to build 7.0.0.47

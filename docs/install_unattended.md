@@ -1,5 +1,5 @@
 ---
-title: "install_unattended"
+title: "Installing Plug-In in Unattended Mode"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/install_unattended.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Installing Plug-In in Unattended Mode
 
-In this article
 
 You can install and uninstall Veeam Plug-in for Google Cloud in the unattended mode using the command line interface. The unattended installation mode does not require user interaction — the installation runs automatically in the background, and you do not have to respond to the installation wizard prompts. You can use the unattended installation mode to automate the Veeam Plug-in for Google Cloud installation process in large-scale environments.
 
@@ -45,6 +45,4 @@ The following command-line parameters are used to run the setup file:
 | /uninstall | No | Uninstalls the plug-in.  Example: ”GCPPlugin\_12.6.1.10.exe /silent /accepteula /acceptthirdpartylicenses /uninstall” |
 | /repair | No | Replaces missing files and firewall rules.  Example: ”GCPPlugin\_12.6.1.10.exe /silent /accepteula /acceptthirdpartylicenses /repair” |
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

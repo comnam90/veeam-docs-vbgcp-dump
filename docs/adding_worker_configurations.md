@@ -1,5 +1,5 @@
 ---
-title: "adding_worker_configurations"
+title: "Adding Worker Configurations"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/adding_worker_configurations.html"
@@ -7,8 +7,8 @@ last_updated: "3/4/2024"
 product_version: "7.0.0.47"
 ---
 
+# Adding Worker Configurations
 
-In this article
 
 To add a new worker configuration, do the following:
 
@@ -18,6 +18,4 @@ To add a new worker configuration, do the following:
 4. [Check the required prerequisites](worker_prerequisites.md).
 5. [Finish working with the wizard](worker_finish.md).
 
-Page updated 3/4/2024
 
-Page content applies to build 7.0.0.47

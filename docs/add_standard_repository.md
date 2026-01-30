@@ -1,5 +1,5 @@
 ---
-title: "add_standard_repository"
+title: "Creating New Repositories"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/add_standard_repository.html"
@@ -7,8 +7,8 @@ last_updated: "3/4/2024"
 product_version: "7.0.0.47"
 ---
 
+# Creating New Repositories
 
-In this article
 
 To add a new repository, do the following:
 
@@ -20,6 +20,4 @@ To add a new repository, do the following:
 6. [Wait for the repository to be added to the backup infrastructure](add_repo_apply.md).
 7. [Finish working with the wizard](add_repo_finish.md).
 
-Page updated 3/4/2024
 
-Page content applies to build 7.0.0.47

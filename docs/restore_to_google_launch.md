@@ -1,5 +1,5 @@
 ---
-title: "restore_to_google_launch"
+title: "Step 1. Launch Restore to Google Compute Engine Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_to_google_launch.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 1. Launch Restore to Google Compute Engine Wizard
 
-In this article
 
 To launch the Restore to Google Compute Engine wizard, do the following:
 
@@ -25,6 +25,4 @@ Alternatively, you can right-click the instance and select Restore to Google CE.
 
 ![Step 1. Launch Restore to Google Compute Engine Wizard](images/restore_to_google_launch.webp)
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

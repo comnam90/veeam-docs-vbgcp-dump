@@ -1,5 +1,5 @@
 ---
-title: "registering_applications"
+title: "Registering Application"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/registering_applications.html"
@@ -7,8 +7,8 @@ last_updated: "11/12/2025"
 product_version: "7.0.0.47"
 ---
 
+# Registering Application
 
-In this article
 
 To allow Veeam Backup for Google Cloud to perform data protection and disaster recovery operations for resources in Google Cloud projects and folders, service accounts associated with the projects and folders must have specific permissions required to access these resources. If any of the permissions listed in section [Planning and Preparation](permissions.md) are missing for a service account, you can grant them in the Google Cloud console automatically, without leaving the Veeam Backup for Google Cloud UI. However, since this functionality employs the OAuth 2.0 protocol to access Google Cloud APIs, you must do the following:
 
@@ -34,6 +34,4 @@ You will be redirected to the OAuth consent screen authorization page. Sign in u
 
 [![Registering Application](images/registering_application.webp)](images/registering_application.webp "Registering Application")
 
-Page updated 11/12/2025
 
-Page content applies to build 7.0.0.47

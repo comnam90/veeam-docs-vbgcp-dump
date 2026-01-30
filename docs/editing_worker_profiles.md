@@ -1,5 +1,5 @@
 ---
-title: "editing_worker_profiles"
+title: "Editing Worker Profiles"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_worker_profiles.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing Worker Profiles
 
-In this article
 
 For each set of worker profiles created for a Goggle Cloud region, you can modify settings specified while creating the profile set:
 
@@ -27,6 +27,4 @@ For each set of worker profiles created for a Goggle Cloud region, you can modif
 
 [![Editing Worker Profiles](images/editing_worker_profiles.webp)](images/editing_worker_profiles.webp "Editing Worker Profiles")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

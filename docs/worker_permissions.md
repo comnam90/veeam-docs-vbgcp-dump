@@ -1,5 +1,5 @@
 ---
-title: "worker_permissions"
+title: "Worker Permissions"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/worker_permissions.html"
@@ -7,8 +7,8 @@ last_updated: "8/23/2024"
 product_version: "7.0.0.47"
 ---
 
+# Worker Permissions
 
-In this article
 
 To allow Veeam Backup for Google Cloud to create a worker instance in a Google Cloud project and to access the instance when performing backup and restore operations, the service account associated with the project must have the following permissions:
 
@@ -37,6 +37,4 @@ Cloud Spanner Backup and Restore Permissions
 | --- |
 | compute.regions.list  compute.disks.list  compute.instances.get  compute.instances.list  compute.snapshots.get  compute.snapshots.list  compute.zones.get  compute.zones.list  compute.globalOperations.get  compute.zoneOperations.get  compute.regionOperations.get  resourcemanager.projects.get  compute.projects.get  compute.firewalls.list  compute.snapshots.getIamPolicy  compute.networks.list  compute.subnetworks.list  resourcemanager.projects.getIamPolicy  iam.serviceAccounts.actAs  compute.disks.create  compute.disks.createSnapshot  compute.disks.delete  compute.disks.setLabels  compute.instances.attachDisk  compute.instances.create  compute.instances.delete  compute.instances.detachDisk  compute.instances.setMetadata  compute.instances.setServiceAccount  compute.instances.setLabels  compute.instances.setTags  compute.routes.list  compute.regions.get  compute.snapshots.create  compute.snapshots.setLabels  compute.snapshots.setIamPolicy  compute.snapshots.delete  pubsub.subscriptions.consume  pubsub.subscriptions.create  pubsub.subscriptions.delete  pubsub.subscriptions.list  pubsub.subscriptions.get  logging.sinks.get  logging.sinks.delete  logging.sinks.list  pubsub.topics.attachSubscription  pubsub.topics.detachSubscription  pubsub.topics.create  pubsub.topics.delete  pubsub.topics.list  pubsub.topics.get  pubsub.topics.publish  compute.machineTypes.get  compute.machineTypes.list  compute.subnetworks.get  compute.subnetworks.use  compute.subnetworks.useExternalIp  compute.disks.use  serviceusage.services.list |
 
-Page updated 8/23/2024
 
-Page content applies to build 7.0.0.47
