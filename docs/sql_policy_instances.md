@@ -1,5 +1,5 @@
 ---
-title: "sql_policy_instances"
+title: "Step 4b. Select Cloud SQL Instances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_policy_instances.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4b. Select Cloud SQL Instances
 
-In this article
 
 In the Resources section of the Resources step of the wizard, specify the backup scope — select Cloud SQL instances that Veeam Backup for Google Cloud will back up:
 
@@ -43,6 +43,4 @@ If you add a label to the backup scope, Veeam Backup for Google Cloud will regul
 
 [![Adding Backup Policy](images/sql_policy_instances.webp)](images/sql_policy_instances.webp "Adding Backup Policy")
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

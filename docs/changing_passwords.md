@@ -1,5 +1,5 @@
 ---
-title: "changing_passwords"
+title: "Changing User Passwords"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/changing_passwords.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Changing User Passwords
 
-In this article
 
 For each user account, you can change the password specified while adding the account:
 
@@ -19,6 +19,4 @@ For each user account, you can change the password specified while adding the ac
 
 [![Changing Passwords for Backup Administrators](images/changing_password.webp)](images/changing_password.webp "Changing Passwords for Backup Administrators")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

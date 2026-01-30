@@ -1,5 +1,5 @@
 ---
-title: "upgrade_vb_console"
+title: "Upgrading to Version 7 from Version 6"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/upgrade_vb_console.html"
@@ -7,8 +7,8 @@ last_updated: "12/8/2025"
 product_version: "7.0.0.47"
 ---
 
+# Upgrading to Version 7 from Version 6
 
-In this article
 
 When you perform upgrade to version 7 from Veeam Backup for Google Cloud version 6, no major operating system or configuration database updates take place. To upgrade Veeam Backup for Google Cloud to version 7, check the [prerequisites](#Prerequisites) and follow the instructions provided in section [Updating Appliances Using Console](appliance_upgrade_console.md).
 
@@ -44,6 +44,4 @@ If the original appliance was connected to a Shared VPC network, both the servic
 
 * Outbound internet access must be allowed from the backup appliance to the Ubuntu Security Repository (security.ubuntu.com) through port 80/443 over the HTTP/HTTPS protocol.
 
-Page updated 12/8/2025
 
-Page content applies to build 7.0.0.47

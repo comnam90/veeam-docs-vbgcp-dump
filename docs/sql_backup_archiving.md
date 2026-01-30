@@ -1,5 +1,5 @@
 ---
-title: "sql_backup_archiving"
+title: "Enabling Backup Archiving"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_backup_archiving.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Enabling Backup Archiving
 
-In this article
 
 When you combine multiple types of schedules, you can enable the archiving mechanism to instruct Veeam Backup for Google Cloud to store backed-up data in the low-cost, long-term Google Cloud archival storage. The mechanism is the most useful in the following cases:
 
@@ -78,6 +78,4 @@ For more information on how Veeam Backup for Google Cloud transforms archive bac
 
 ![Enabling Backup Archiving](images/backup_archiving_monthly_retention.webp)
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

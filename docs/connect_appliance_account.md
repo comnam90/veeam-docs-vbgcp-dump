@@ -1,5 +1,5 @@
 ---
-title: "connect_appliance_account"
+title: "Step 3. Specify Service Account Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/connect_appliance_account.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Specify Service Account Settings
 
-In this article
 
 At the Account step of the wizard, do the following:
 
@@ -27,6 +27,4 @@ For more information on regions and zones in Google Cloud, see [Google Cloud doc
 
 ![Step 3. Specify Service Account Settings](images/add_service_account.webp)
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

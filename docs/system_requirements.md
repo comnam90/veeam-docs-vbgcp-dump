@@ -1,5 +1,5 @@
 ---
-title: "system_requirements"
+title: "System Requirements"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/system_requirements.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2025"
 product_version: "7.0.0.47"
 ---
 
+# System Requirements
 
-In this article
 
 When you plan to install Veeam Backup for Google Cloud, consider the following hardware and software requirements.
 
@@ -52,6 +52,4 @@ The following table lists compatible versions of Veeam Backup & Replication, Vee
 | 11.0.1.1261 | 11.0.2.331 | 2.0.0.535 |
 | 2.0.0.530 |
 
-Page updated 11/21/2025
 
-Page content applies to build 7.0.0.47

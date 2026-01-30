@@ -1,5 +1,5 @@
 ---
-title: "configuration"
+title: "Configuring Veeam Backup for Google Cloud"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/configuration.html"
@@ -7,8 +7,8 @@ last_updated: "10/22/2025"
 product_version: "7.0.0.47"
 ---
 
+# Configuring Veeam Backup for Google Cloud
 
-In this article
 
 To start working with Veeam Backup for Google Cloud, perform a number of steps for its configuration:
 
@@ -27,6 +27,4 @@ To start working with Veeam Backup for Google Cloud, perform a number of steps f
 | Note |
 | Even after you add projects that manage your Google Cloud resources and configure all the necessary settings, Veeam Backup for Google Cloud will not populate the lists of VM, Cloud SQL and Cloud Spanner instances on the [Resources page](viewing_resources.md) — unless you create backup policies and specify regions in which the instances reside, as described in sections [Performing VM Backup](performing_vm_backup.md), [Performing SQL Backup](performing_sql_backup.md) and [Performing Spanner Backup](performing_spanner_backup.md). |
 
-Page updated 10/22/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "editing_repositories"
+title: "Editing Backup Repositories"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_repositories.html"
@@ -7,8 +7,8 @@ last_updated: "11/5/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing Backup Repositories
 
-In this article
 
 The settings that you can modify for a backup repository depend on whether the repository has been added to the backup infrastructure using the Veeam Backup & Replication console or the Veeam Backup for Google Cloud Web UI.
 
@@ -56,6 +56,4 @@ As soon as you click Finish, Veeam Backup for Google Cloud will start modifying 
 
 [![Editing Backup Repository Properties](images/editing_repositories.webp)](images/editing_repositories.webp "Editing Backup Repository Properties")
 
-Page updated 11/5/2025
 
-Page content applies to build 7.0.0.47

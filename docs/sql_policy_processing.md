@@ -1,5 +1,5 @@
 ---
-title: "sql_policy_processing"
+title: "Step 7. Specify Processing Options"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_policy_processing.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 7. Specify Processing Options
 
-In this article
 
 At the Processing Options step of the wizard, choose whether you want to use a staging server to perform backup operations. To learn how Veeam Backup for Google Cloud uses staging servers to protect Cloud SQL instances, see [SQL Backup](backup_sql.md).
 
@@ -59,6 +59,4 @@ By default, the selected account will be used to access all the instances added 
 
 [![Adding Backup Policy](images/sql_policy_staging.webp)](images/sql_policy_staging.webp "Adding Backup Policy")
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

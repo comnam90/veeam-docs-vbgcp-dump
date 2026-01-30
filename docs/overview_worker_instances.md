@@ -1,5 +1,5 @@
 ---
-title: "overview_worker_instances"
+title: "Worker Instances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/overview_worker_instances.html"
@@ -7,8 +7,8 @@ last_updated: "12/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Worker Instances
 
-In this article
 
 A worker instance is an auxiliary Linux-based VM instance that is responsible for the interaction between the backup appliance and other components of the Veeam Backup for Google Cloud architecture. Worker instances process backup workload and distribute backup traffic when transferring data to and from backup repositories.
 
@@ -59,6 +59,4 @@ Worker instances are deployed based on worker configurations and profiles. For m
 
 For the list of network ports that must be open to ensure proper communication of worker instances with other components of the Veeam Backup for Google Cloud architecture, see [Ports](ports.md).
 
-Page updated 12/4/2025
 
-Page content applies to build 7.0.0.47

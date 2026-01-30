@@ -1,5 +1,5 @@
 ---
-title: "managing_projects"
+title: "Managing Projects and Folders"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/managing_projects.html"
@@ -7,8 +7,8 @@ last_updated: "2/7/2024"
 product_version: "7.0.0.47"
 ---
 
+# Managing Projects and Folders
 
-In this article
 
 To be able to perform data protection and disaster recovery tasks for Google Cloud resources, you must first add to Veeam Backup for Google Cloud a project or folder that manages these resources, choose a service account that will be used to access this project or folder, and then specify a set of permissions that will be granted to the service account to perform the necessary operations.
 
@@ -23,6 +23,4 @@ In This Section
 * [Editing Projects](editing_projects.md)
 * [Removing Projects](removing_projects.md)
 
-Page updated 2/7/2024
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "add_repo_launch"
+title: "Step 1. Launch Add External Repository Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/add_repo_launch.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 1. Launch Add External Repository Wizard
 
-In this article
 
 To launch the Add External Repository wizard, do the following:
 
@@ -27,6 +27,4 @@ Alternatively, you can right-click the External Repositories node and select Add
 
 [![GCP Standard Repository](images/add_standard_repository_launch.webp)](images/add_standard_repository_launch.webp "GCP Standard Repository")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

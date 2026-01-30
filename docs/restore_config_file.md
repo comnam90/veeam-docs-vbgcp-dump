@@ -1,5 +1,5 @@
 ---
-title: "restore_config_file"
+title: "Step 2. Choose Backup File"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_config_file.html"
@@ -7,8 +7,8 @@ last_updated: "11/20/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 2. Choose Backup File
 
-In this article
 
 At the Configuration Backup step of the wizard, do the following:
 
@@ -25,6 +25,4 @@ For a repository to be displayed in the Backup repository list, it must be added
 
 ![Step 2. Choose Backup File](images/config_restore_file.webp)
 
-Page updated 11/20/2025
 
-Page content applies to build 7.0.0.47

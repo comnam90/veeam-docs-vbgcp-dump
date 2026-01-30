@@ -1,5 +1,5 @@
 ---
-title: "connecting_existing_appliance"
+title: "Connecting to Existing Appliances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/connecting_existing_appliance.html"
@@ -7,8 +7,8 @@ last_updated: "1/3/2025"
 product_version: "7.0.0.47"
 ---
 
+# Connecting to Existing Appliances
 
-In this article
 
 If you have already [deployed a backup appliance](deploying_appliance.md), you can add the appliance to the backup infrastructure:
 
@@ -22,6 +22,4 @@ If you have already [deployed a backup appliance](deploying_appliance.md), you c
 8. [Wait for the appliance to be added to the backup infrastructure](connect_appliance_apply.md).
 9. [Finish working with the wizard](connect_appliance_finish.md).
 
-Page updated 1/3/2025
 
-Page content applies to build 7.0.0.47

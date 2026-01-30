@@ -1,5 +1,5 @@
 ---
-title: "spanner_restore_type"
+title: "Step 7. Specify Instance Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/spanner_restore_type.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 7. Specify Instance Settings
 
-In this article
 
 [This step applies only if you have selected the Restore to new location, or with different settings option at the Restore Mode step of the wizard]
 
@@ -28,6 +28,4 @@ You can also choose a new measurement unit and manually increase compute capacit
 
 [![Restoring Cloud SQL Instance](images/spanner_restore_type.webp)](images/spanner_restore_type.webp "Restoring Cloud SQL Instance")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

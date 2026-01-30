@@ -1,5 +1,5 @@
 ---
-title: "adding_smtp_accounts"
+title: "Adding SMTP Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/adding_smtp_accounts.html"
@@ -7,8 +7,8 @@ last_updated: "3/4/2024"
 product_version: "7.0.0.47"
 ---
 
+# Adding SMTP Accounts
 
-In this article
 
 To add an account that will be used to connect to an SMTP server, do the following:
 
@@ -17,6 +17,4 @@ To add an account that will be used to connect to an SMTP server, do the followi
 3. [Provide credentials](smtp_account_credentials.md).
 4. [Finish working with the wizard](smtp_account_finish.md).
 
-Page updated 3/4/2024
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "managing_data_console"
+title: "Managing Backed-Up Data Using Console"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/managing_data_console.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2025"
 product_version: "7.0.0.47"
 ---
 
+# Managing Backed-Up Data Using Console
 
-In this article
 
 To view and manage backed-up data, navigate to the Backups node of the Home view. The node displays information on all restore points created by backup appliances.
 
@@ -74,6 +74,4 @@ Alternatively, you can right-click the necessary backup chain and select Specify
 
 [![Backup decryption](images/decrypt_backup.webp)](images/decrypt_backup.webp "Backup decryption")
 
-Page updated 11/21/2025
 
-Page content applies to build 7.0.0.47

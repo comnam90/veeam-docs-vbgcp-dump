@@ -1,5 +1,5 @@
 ---
-title: "restore_sql_instance_network"
+title: "Step 6. Configure Network Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_sql_instance_network.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 6. Configure Network Settings
 
-In this article
 
 [This step applies only if you have selected the Restore to a new location, or with different settings option at the Restore Mode step of the wizard]
 
@@ -34,6 +34,4 @@ Then, click Network. In the Authorized Networks window, add the allowed IP addre
 
 ![Step 6. Configure Network Settings](images/restore_instance_sql_network.webp)
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

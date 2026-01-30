@@ -1,5 +1,5 @@
 ---
-title: "understanding_retention_policy"
+title: "Retention Policies"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/understanding_retention_policy.html"
@@ -7,8 +7,8 @@ last_updated: "8/22/2024"
 product_version: "7.0.0.47"
 ---
 
+# Retention Policies
 
-In this article
 
 Cloud-native snapshots and image-level backups created by backup policies are not kept forever — they are removed according to retention policy settings specified while creating the policies as described in sections [Creating VM Policies](backup_policy_schedule.md), [Creating SQL Policies](sql_policy_schedule.md) and [Creating Spanner Policies](spanner_policy_schedule.md).
 
@@ -30,6 +30,4 @@ Related Topics
 * [Creating SQL Backup Policies](creating_sql_backup_policies.md)
 * [Creating Spanner Backup Policies](creating_spanner_backup_policies.md)
 
-Page updated 8/22/2024
 
-Page content applies to build 7.0.0.47

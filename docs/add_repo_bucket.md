@@ -1,5 +1,5 @@
 ---
-title: "add_repo_bucket"
+title: "Step 5. Configure Repository Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/add_repo_bucket.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Configure Repository Settings
 
-In this article
 
 At the Bucket step of the wizard, do the following:
 
@@ -33,6 +33,4 @@ For a password to be displayed in the list of available passwords, it must be ad
 
 [![GCP Repository - Bucket](images/add_standard_repository_bucket.webp)](images/add_standard_repository_bucket.webp "GCP Repository - Bucket")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

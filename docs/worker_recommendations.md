@@ -1,5 +1,5 @@
 ---
-title: "worker_recommendations"
+title: "Worker Instances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/worker_recommendations.html"
@@ -7,8 +7,8 @@ last_updated: "12/19/2025"
 product_version: "7.0.0.47"
 ---
 
+# Worker Instances
 
-In this article
 
 If you want initial full backups to be processed quickly, it is recommended that you use a larger worker profile, and then change it to a smaller profile for incremental backup. You can change worker profile settings on a regional basis, so make sure that the selected profile is appropriate to process the largest workload within the required time.
 
@@ -86,6 +86,4 @@ Worker Profile Recommendations for Retention
 | Important |
 | It is not recommended to manually change the default worker profile that is used to deploy worker instances performing retention operations — to customize the profile, open a [support case](collecting_logs.md). |
 
-Page updated 12/19/2025
 
-Page content applies to build 7.0.0.47

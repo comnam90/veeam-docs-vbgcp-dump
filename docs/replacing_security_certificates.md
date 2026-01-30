@@ -1,5 +1,5 @@
 ---
-title: "replacing_security_certificates"
+title: "Replacing Security Certificates"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/replacing_security_certificates.html"
@@ -7,8 +7,8 @@ last_updated: "11/12/2025"
 product_version: "7.0.0.47"
 ---
 
+# Replacing Security Certificates
 
-In this article
 
 To establish secure data communications between the backup appliance and web browsers running on user workstations, Veeam Backup for Google Cloud uses Transport Layer Security (TLS) certificates.
 
@@ -35,6 +35,4 @@ When you install Veeam Backup for Google Cloud, it automatically generates a def
 
 [![Replacing Security Certificate](images/replacing_web_certificate.webp)](images/replacing_web_certificate.webp "Replacing Security Certificate")
 
-Page updated 11/12/2025
 
-Page content applies to build 7.0.0.47

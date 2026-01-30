@@ -1,5 +1,5 @@
 ---
-title: "connect_appliance_connection"
+title: "Step 5. Specify Connection Type"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/connect_appliance_connection.html"
@@ -7,8 +7,8 @@ last_updated: "12/2/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Specify Connection Type
 
-In this article
 
 At the Connection Type step of the wizard, specify the way Veeam Backup & Replication will connect to the backup appliance:
 
@@ -17,6 +17,4 @@ At the Connection Type step of the wizard, specify the way Veeam Backup & Replic
 
 ![Step 5. Specify Connection Type](images/add_server_connection.webp)
 
-Page updated 12/2/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "backup_copy"
+title: "Creating Backup Copy Jobs"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_copy.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Creating Backup Copy Jobs
 
-In this article
 
 Backup copy is a technology that helps you copy and store backed-up data of VM instances in different locations. Storing data in different locations increases its availability and ensures that data can be recovered in case a disaster strikes.
 
@@ -27,6 +27,4 @@ To create a backup copy job, do the following:
 
 [![Copy backups to tape](images/backup_copy_job.webp)](images/backup_copy_job.webp "Copy backups to tape")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

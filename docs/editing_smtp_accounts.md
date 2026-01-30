@@ -1,5 +1,5 @@
 ---
-title: "editing_smtp_accounts"
+title: "Editing SMTP Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_smtp_accounts.html"
@@ -7,8 +7,8 @@ last_updated: "11/12/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing SMTP Accounts
 
-In this article
 
 For each SMTP account, you can modify settings configured while creating the account:
 
@@ -24,6 +24,4 @@ For each SMTP account, you can modify settings configured while creating the acc
 
 [![Editing SMTP Accounts](images/editing_smtp_accounts.webp)](images/editing_smtp_accounts.webp "Editing SMTP Accounts")
 
-Page updated 11/12/2025
 
-Page content applies to build 7.0.0.47

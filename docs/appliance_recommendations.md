@@ -1,5 +1,5 @@
 ---
-title: "appliance_recommendations"
+title: "Backup Appliance"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/appliance_recommendations.html"
@@ -7,8 +7,8 @@ last_updated: "12/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Backup Appliance
 
-In this article
 
 You can choose the machine type of the VM instance running Veeam Backup for Google Cloud during the deployment, or later as the environment grows.
 
@@ -52,6 +52,4 @@ When you connect an existing backup appliance to the backup infrastructure, the 
 | Note |
 | The process of synchronizing data between the backup appliance and Veeam Backup & Replication database runs every 2 minutes after you add the appliance to the backup infrastructure. Creating new backup policies and updating policy settings may also trigger the synchronization process. |
 
-Page updated 12/4/2025
 
-Page content applies to build 7.0.0.47

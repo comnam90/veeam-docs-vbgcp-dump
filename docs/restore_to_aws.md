@@ -1,5 +1,5 @@
 ---
-title: "restore_to_aws"
+title: "Restoring to AWS"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_to_aws.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Restoring to AWS
 
-In this article
 
 Veeam Backup & Replication allows you to restore VM instances from image-level backups created with Veeam Backup for Google Cloud to AWS as EC2 instances. You can restore VM instances to any available restore point. For more information, see the Veeam Backup & Replication User Guide, section [Restore to Amazon EC2](https://helpcenter.veeam.com/docs/vbr/userguide/restore_amazon.html?ver=13).
 
@@ -29,6 +29,4 @@ To restore a VM instance to Amazon EC2, do the following:
 
 [![Restore to AWS](images/restore_to_amazon.webp)](images/restore_to_amazon.webp "Restore to AWS")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

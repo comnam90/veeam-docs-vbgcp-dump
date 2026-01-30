@@ -1,5 +1,5 @@
 ---
-title: "sql_policy_project"
+title: "Step 3. Specify Project"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_policy_project.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Specify Project
 
-In this article
 
 At the Sources step of the wizard, choose a project or a folder with a project that manages resources that you want to protect, and specify a service account that will be used to access the project or folder.
 
@@ -18,6 +18,4 @@ For a service account to be displayed in the list of available accounts, it must
 
 [![Adding Backup Policy](images/sql_policy_project.webp)](images/sql_policy_project.webp "Adding Backup Policy")
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

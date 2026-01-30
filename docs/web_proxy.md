@@ -1,5 +1,5 @@
 ---
-title: "web_proxy"
+title: "Configuring Web Proxy"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/web_proxy.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Configuring Web Proxy
 
-In this article
 
 To check for available package updates for Veeam Backup for Google Cloud, the Veeam Updater service running on the backup appliance connects to Veeam repositories over the internet. If the backup appliance is not connected to the internet, you can instruct the Veeam Updater service to use a web proxy that will provide access to the required resources.
 
@@ -32,6 +32,4 @@ To configure connection to the internet through a web proxy, do the following:
 
 [![Configuring Web Proxy](images/web_proxy.webp)](images/web_proxy.webp "Configuring Web Proxy")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "planning"
+title: "Planning and Preparation"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/planning.html"
@@ -7,8 +7,8 @@ last_updated: "9/11/2023"
 product_version: "7.0.0.47"
 ---
 
+# Planning and Preparation
 
-In this article
 
 Before you start using Veeam Backup for Google Cloud, consider the following requirements:
 
@@ -19,6 +19,4 @@ Before you start using Veeam Backup for Google Cloud, consider the following req
 * [Google Cloud APIs to which Veeam Backup for Google Cloud must have outbound internet access](google_cloud_apis.md)
 * [Considerations and limitations that should be kept in mind before you deploy Veeam Backup for Google Cloud](limitations.md)
 
-Page updated 9/11/2023
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "performing_database_restore_ui"
+title: "Performing Database Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_database_restore_ui.html"
@@ -7,8 +7,8 @@ last_updated: "8/30/2023"
 product_version: "7.0.0.47"
 ---
 
+# Performing Database Restore
 
-In this article
 
 In case a disaster strikes, you can restore corrupted databases of a Cloud SQL instance from an image-level backup. Veeam Backup for Google Cloud allows you to restore databases to the original location or to a new location.
 
@@ -32,6 +32,4 @@ To restore databases of a protected Cloud SQL instance, do the following:
 | Important |
 | Before you start Cloud SQL database restore, make sure that network settings are configured for each region where worker instances will be deployed during the restore process. For information on how to configure network settings, see [Adding Worker Configurations](worker_network_settings.md). |
 
-Page updated 8/30/2023
 
-Page content applies to build 7.0.0.47

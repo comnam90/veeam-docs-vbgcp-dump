@@ -1,5 +1,5 @@
 ---
-title: "object_storage_recommendations"
+title: "Backup Repository"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/object_storage_recommendations.html"
@@ -7,8 +7,8 @@ last_updated: "6/24/2025"
 product_version: "7.0.0.47"
 ---
 
+# Backup Repository
 
-In this article
 
 Veeam Backup for Google Cloud compresses all backed-up data when saving it to a backup repository. The compression rate depends on the type and structure of source data and usually varies from 50% to 60%. This means that the compressed data typically consumes 50% less storage space than the source data.
 
@@ -41,6 +41,4 @@ Related Topics
 * [Performing SQL Backup](performing_sql_backup.md)
 * [Performing Spanner Backup](performing_spanner_backup.md)
 
-Page updated 6/24/2025
 
-Page content applies to build 7.0.0.47

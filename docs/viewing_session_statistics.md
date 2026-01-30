@@ -1,5 +1,5 @@
 ---
-title: "viewing_session_statistics"
+title: "Viewing Session Statistics"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/viewing_session_statistics.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Viewing Session Statistics
 
-In this article
 
 For each performed data protection or disaster recovery operation, Veeam Backup for Google Cloud starts a new session and stores its records in the configuration database.
 
@@ -41,6 +41,4 @@ You can track real-time statistics of all running and completed operations on th
 
 [![Viewing Session Details](images/viewing_sessions.webp)](images/viewing_sessions.webp "Viewing Session Details")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

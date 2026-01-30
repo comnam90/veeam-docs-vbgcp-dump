@@ -1,5 +1,5 @@
 ---
-title: "backup_permissions"
+title: "Backup Permissions"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_permissions.html"
@@ -7,8 +7,8 @@ last_updated: "1/26/2024"
 product_version: "7.0.0.47"
 ---
 
+# Backup Permissions
 
-In this article
 
 To allow Veeam Backup for Google Cloud to perform backup operations, the service account associated with the Google Cloud project managing instances that you want to protect must have the following permissions.
 
@@ -40,6 +40,4 @@ Cloud Spanner Backup Permissions
 | --- |
 | spanner.databases.list  spanner.databases.get  spanner.databases.getDdl  spanner.databases.beginReadOnlyTransaction  spanner.databases.partitionQuery  spanner.databases.select  spanner.instanceConfigs.get  spanner.instanceConfigs.list  spanner.instances.get  spanner.instances.list  spanner.sessions.create  spanner.sessions.delete  compute.regions.list  compute.zones.list  logging.sinks.create  logging.sinks.delete  logging.sinks.get  logging.sinks.list  pubsub.subscriptions.consume  pubsub.subscriptions.create  pubsub.subscriptions.delete  pubsub.subscriptions.get  pubsub.subscriptions.list  pubsub.topics.attachSubscription  pubsub.topics.create  pubsub.topics.delete  pubsub.topics.detachSubscription,  pubsub.topics.get  pubsub.topics.getIamPolicy  pubsub.topics.list  pubsub.topics.setIamPolicy  serviceusage.services.list  cloudkms.keyRings.list  cloudkms.cryptoKeys.list  compute.projects.get  monitoring.timeSeries.list  resourcemanager.projects.get |
 
-Page updated 1/26/2024
 
-Page content applies to build 7.0.0.47

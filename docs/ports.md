@@ -1,5 +1,5 @@
 ---
-title: "ports"
+title: "Ports"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/ports.html"
@@ -7,8 +7,8 @@ last_updated: "1/6/2026"
 product_version: "7.0.0.47"
 ---
 
+# Ports
 
-In this article
 
 As Veeam Plug-in for Google Cloud is installed on the same machine where Veeam Backup & Replication runs, it uses the same ports as those described in the Veeam Backup & Replication User Guide, section [Ports](https://helpcenter.veeam.com/docs/vbr/userguide/used_ports.html?ver=13). In addition, Veeam Plug-in for Google Cloud also uses ports listed in the following table.
 
@@ -41,6 +41,4 @@ Related Topics
 
 [Google Cloud APIs](google_cloud_apis.md)
 
-Page updated 1/6/2026
 
-Page content applies to build 7.0.0.47

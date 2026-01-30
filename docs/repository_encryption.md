@@ -1,5 +1,5 @@
 ---
-title: "repository_encryption"
+title: "Step 6. Enable Encryption"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/repository_encryption.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 6. Enable Encryption
 
-In this article
 
 At the Encryption step of the wizard, choose whether you want to encrypt backups stored in the selected storage bucket. If you enable encryption, specify a password that will be used to encrypt data.
 
@@ -21,6 +21,4 @@ If you have selected an existing subdirectory at the Storage Bucket step of the 
 
 [![Adding Backup Repository](images/repository_encryption.webp)](images/repository_encryption.webp "Adding Backup Repository")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

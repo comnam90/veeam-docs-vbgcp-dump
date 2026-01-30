@@ -1,5 +1,5 @@
 ---
-title: "performing_backup"
+title: "Performing Backup"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_backup.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Performing Backup
 
-In this article
 
 With Veeam Backup for Google Cloud, you can protect Google Cloud resources in the following ways:
 
@@ -58,6 +58,4 @@ In This Section
 * [Performing Backup Using Console](performing_backup_console.md)
 * [Performing Backup Using Web UI](performing_backup_ui.md)
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

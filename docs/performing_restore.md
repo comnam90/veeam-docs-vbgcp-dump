@@ -1,5 +1,5 @@
 ---
-title: "performing_restore"
+title: "Performing Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_restore.html"
@@ -7,8 +7,8 @@ last_updated: "1/10/2024"
 product_version: "7.0.0.47"
 ---
 
+# Performing Restore
 
-In this article
 
 In various disaster recovery scenarios, you can perform the following restore operations using backed-up data:
 
@@ -22,6 +22,4 @@ In various disaster recovery scenarios, you can perform the following restore op
 * [Restore to Microsoft Azure](restore_to_azure.md) — restore VM instances from image-level backups to Microsoft Azure as Azure VMs.
 * [Restore to Nutanix AHV](restore_to_nutanix.md) — restore VM instances from image-level backups to Nutanix AHV as Nutanix AHV VMs.
 
-Page updated 1/10/2024
 
-Page content applies to build 7.0.0.47

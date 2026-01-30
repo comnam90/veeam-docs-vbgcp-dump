@@ -1,5 +1,5 @@
 ---
-title: "restore_file_level"
+title: "File-Level Recovery"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_file_level.html"
@@ -7,8 +7,8 @@ last_updated: "11/28/2024"
 product_version: "7.0.0.47"
 ---
 
+# File-Level Recovery
 
-In this article
 
 Veeam Backup for Google Cloud allows you to recover the files and folders of a backed-up VM instance to a local machine or to the original location.
 
@@ -68,6 +68,4 @@ The file-level recovery browser displays the directory structure of the backed-u
 
 To learn how to recover individual files and folders of a VM instance from a cloud-native snapshot or an image-level backup, see [Performing File-Level Recovery](performing_flr.md).
 
-Page updated 11/28/2024
 
-Page content applies to build 7.0.0.47

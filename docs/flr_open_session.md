@@ -1,5 +1,5 @@
 ---
-title: "flr_open_session"
+title: "Step 6. Start Recovery Session"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/flr_open_session.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 6. Start Recovery Session
 
-In this article
 
 At the Summary step of the wizard, review summary information and click Finish.
 
@@ -31,6 +31,4 @@ In the FLR Running Sessions window, you can track the state of the recovery sess
 
 [![Restoring VM Files and Folders](images/item_restore_flr_window.webp)](images/item_restore_flr_window.webp "Restoring VM Files and Folders")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

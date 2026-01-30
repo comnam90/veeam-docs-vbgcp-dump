@@ -1,5 +1,5 @@
 ---
-title: "restore_entire_instance_vm"
+title: "Instance Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_entire_instance_vm.html"
@@ -7,8 +7,8 @@ last_updated: "9/5/2024"
 product_version: "7.0.0.47"
 ---
 
+# Instance Restore
 
-In this article
 
 To restore a VM instance from a cloud-native snapshot, Veeam Backup for Google Cloud uses [native Google Cloud capabilities](https://cloud.google.com/compute/docs/disks/restore-and-delete-snapshots). To restore a VM instance from an image-level backup, Veeam Backup for Google Cloud performs the following steps:
 
@@ -35,6 +35,4 @@ The number of empty persistent disks equals the number of persistent disks attac
 
 To learn how to restore an entire VM instance from a cloud-native snapshot or an image-level backup, see [Performing VM Instance Restore](performing_instance_restore_ui.md).
 
-Page updated 9/5/2024
 
-Page content applies to build 7.0.0.47

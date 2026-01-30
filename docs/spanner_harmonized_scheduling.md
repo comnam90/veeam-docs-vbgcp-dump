@@ -1,5 +1,5 @@
 ---
-title: "spanner_harmonized_scheduling"
+title: "Enabling Harmonized Scheduling"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/spanner_harmonized_scheduling.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Enabling Harmonized Scheduling
 
-In this article
 
 When you combine multiple types of schedules, Veeam Backup for Google Cloud applies the harmonization mechanism that allows you to leverage restore points for long-term retentions instead of taking a new restore point every time. The mechanism simplifies the backup schedule, optimizes the backup performance and reduces the cost of retaining restore points.
 
@@ -63,6 +63,4 @@ By the moment the backup session completes, the number of restore points with th
 
 ![Enabling Harmonized Scheduling](images/sql_retention_snapshots_weekly_rp_removed.webp)
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

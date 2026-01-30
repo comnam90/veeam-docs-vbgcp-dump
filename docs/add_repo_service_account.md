@@ -1,5 +1,5 @@
 ---
-title: "add_repo_service_account"
+title: "Step 4. Specify Service Account"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/add_repo_service_account.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4. Specify Service Account
 
-In this article
 
 At the Service Account step of the wizard, do the following:
 
@@ -27,6 +27,4 @@ For an HMAC key to be displayed in the Credentials list, it must be added to the
 
 [![GCP Repository - Service account](images/add_standard_repository_service_account.webp)](images/add_standard_repository_service_account.webp "GCP Repository - Service account")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

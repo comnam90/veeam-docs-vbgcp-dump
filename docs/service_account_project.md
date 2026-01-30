@@ -1,5 +1,5 @@
 ---
-title: "service_account_project"
+title: "Step 3. Specify Project"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/service_account_project.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Specify Project
 
-In this article
 
 [This step applies only if you have selected the Create new account option at the Service Account step of the wizard]
 
@@ -21,6 +21,4 @@ At the Project step of the wizard, specify the ID of a project in which the new 
 
 [![Adding Service Account](images/service_account_project.webp)](images/service_account_project.webp "Adding Service Account")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

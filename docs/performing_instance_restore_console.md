@@ -1,5 +1,5 @@
 ---
-title: "performing_instance_restore_console"
+title: "Performing VM Instance Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_instance_restore_console.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Performing VM Instance Restore
 
-In this article
 
 In case a disaster strikes, you can restore an entire VM instance from a cloud-native snapshot or an image-level backup. Veeam Backup & Replication allows you to restore one or more VM instances at a time, to the original location or to a new location.
 
@@ -38,6 +38,4 @@ To restore an entire VM instance, do the following:
 8. [Specify a restore reason](restore_to_google_reason.md).
 9. [Finish working with the wizard](restore_to_google_summary.md).
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

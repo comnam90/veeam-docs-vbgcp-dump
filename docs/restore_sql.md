@@ -1,5 +1,5 @@
 ---
-title: "restore_sql"
+title: "SQL Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_sql.html"
@@ -7,8 +7,8 @@ last_updated: "11/1/2023"
 product_version: "7.0.0.47"
 ---
 
+# SQL Restore
 
-In this article
 
 Veeam Backup for Google Cloud offers the following restore operations:
 
@@ -17,6 +17,4 @@ Veeam Backup for Google Cloud offers the following restore operations:
 
 You can restore Cloud SQL instance data to the most recent state or to any available restore point.
 
-Page updated 11/1/2023
 
-Page content applies to build 7.0.0.47

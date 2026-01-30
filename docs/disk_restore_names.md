@@ -1,5 +1,5 @@
 ---
-title: "disk_restore_names"
+title: "Step 8. Specify Disk Names"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/disk_restore_names.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 8. Specify Disk Names
 
-In this article
 
 [This step applies only if you have selected the Restore to new location, or with different settings option at the Restore Mode step of the wizard]
 
@@ -24,6 +24,4 @@ At the Disk Settings step of the wizard, you can specify a new name for each res
 
 [![Restoring VM Disks](images/disk_restore_names.webp)](images/disk_restore_names.webp "Restoring VM Disks")
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

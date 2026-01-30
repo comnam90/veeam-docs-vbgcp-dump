@@ -1,5 +1,5 @@
 ---
-title: "archive_backup_retention_vm"
+title: "Retention Policy for Archived Backups"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/archive_backup_retention_vm.html"
@@ -7,8 +7,8 @@ last_updated: "2/7/2024"
 product_version: "7.0.0.47"
 ---
 
+# Retention Policy for Archived Backups
 
-In this article
 
 For archived backups, Veeam Backup for Google Cloud retains restore points for the number of days defined in backup scheduling settings as described in section [Creating VM Policies](backup_policy_schedule.md).
 
@@ -41,6 +41,4 @@ Related Topics
 
 [Enabling Backup Archiving](backup_archiving.md)
 
-Page updated 2/7/2024
 
-Page content applies to build 7.0.0.47

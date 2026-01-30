@@ -1,5 +1,5 @@
 ---
-title: "appendix_private_deployment"
+title: "Appendix A. Configuring Deployment Mode"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/appendix_private_deployment.html"
@@ -7,8 +7,8 @@ last_updated: "4/25/2025"
 product_version: "7.0.0.47"
 ---
 
+# Appendix A. Configuring Deployment Mode
 
-In this article
 
 Veeam Backup for Google Cloud automatically deploys worker instances in Google Cloud for the duration of backup or restore processes, and removes them immediately after the processes complete. Depending on the types of workloads you plan to protect with Veeam Backup for Google Cloud and on the external security requirements, you can configure a deployment mode for your worker instances.
 
@@ -44,6 +44,4 @@ If you need the Virtual Trusted Platform Module (vTPM) and Integrity Monitoring 
 | --- |
 | "Worker": {                 "EnableVtpm": true,                 "EnableIntegrityMonitoring": true         } |
 
-Page updated 4/25/2025
 
-Page content applies to build 7.0.0.47

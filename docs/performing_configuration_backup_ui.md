@@ -1,5 +1,5 @@
 ---
-title: "performing_configuration_backup_ui"
+title: "Performing Configuration Backup Using Web UI"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_configuration_backup_ui.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Performing Configuration Backup Using Web UI
 
-In this article
 
 While performing configuration backup, Veeam Backup for Google Cloud exports data from the configuration database and saves it to a backup file in a backup repository. You can back up the configuration database of a backup appliance either manually or automatically.
 
@@ -52,6 +52,4 @@ For a backup repository to be displayed in the list of available repositories, i
 
 [![Creating Configuration Backup Automatically](images/config_backup_auto.webp)](images/config_backup_auto.webp "Creating Configuration Backup Automatically")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "changing_time_zone"
+title: "Changing Time Zone"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/changing_time_zone.html"
@@ -7,8 +7,8 @@ last_updated: "11/12/2025"
 product_version: "7.0.0.47"
 ---
 
+# Changing Time Zone
 
-In this article
 
 Veeam Backup for Google Cloud runs daily reports and performs all data protection and disaster recovery operations according to the time zone set on the backup appliance.
 
@@ -33,6 +33,4 @@ To change the time zone set on the backup appliance:
 
 [![Changing Time Zone](images/time_settings.webp)](images/time_settings.webp "Changing Time Zone")
 
-Page updated 11/12/2025
 
-Page content applies to build 7.0.0.47

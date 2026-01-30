@@ -1,5 +1,5 @@
 ---
-title: "vm_restore_network"
+title: "Step 9. Configure Network Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vm_restore_network.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 9. Configure Network Settings
 
-In this article
 
 [This step applies only if you have selected the Restore to new location, or with different settings option at the Restore Mode step of the wizard]
 
@@ -27,6 +27,4 @@ For a VPC network and a subnet to be displayed in the lists of available network
 
 [![Restoring VM Instance](images/vm_restore_network.webp)](images/vm_restore_network.webp "Restoring VM Instance")
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

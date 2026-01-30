@@ -1,5 +1,5 @@
 ---
-title: "performing_configuration_restore_ui"
+title: "Restoring Configuration Data Using Web UI"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_configuration_restore_ui.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2023"
 product_version: "7.0.0.47"
 ---
 
+# Restoring Configuration Data Using Web UI
 
-In this article
 
 To restore the configuration database of a backup appliance using the Veeam Backup for Google Cloud Web UI, do the following:
 
@@ -25,6 +25,4 @@ To restore the configuration database of a backup appliance using the Veeam Back
 | Important |
 | * If your backup appliance is managed by a Veeam Backup & Replication server, you will not be able to restore the configuration of Veeam Backup for Google Cloud from the Web UI. In this case, you can perform configuration restore using the Veeam Backup & Replication console as described in section [Performing Configuration Restore Using Console](performing_configuration_restore_console.md). * Before you start the restore process, stop all backup policies that are currently running. |
 
-Page updated 11/21/2023
 
-Page content applies to build 7.0.0.47

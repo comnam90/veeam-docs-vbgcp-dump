@@ -1,5 +1,5 @@
 ---
-title: "disk_restore_checks"
+title: "Step 9. Run Configuration Checks"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/disk_restore_checks.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 9. Run Configuration Checks
 
-In this article
 
 At the Verification step of the wizard, Veeam Backup for Google Cloud will verify whether restore settings are configured properly and the specified service account has all the necessary permissions required to perform recovery tasks for the project to which the restored persistent disks will belong. For more information on the required permissions, see [Service Account Permissions](restore_permissions.md#vm).
 
@@ -31,6 +31,4 @@ To make sure that the missing permissions have been successfully granted, click 
 
 [![Restoring VM Disks](images/disk_restore_checks.webp)](images/disk_restore_checks.webp "Restoring VM Disks")
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

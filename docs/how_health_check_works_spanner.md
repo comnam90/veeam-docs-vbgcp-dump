@@ -1,5 +1,5 @@
 ---
-title: "how_health_check_works_spanner"
+title: "How Health Check Works"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/how_health_check_works_spanner.html"
@@ -7,8 +7,8 @@ last_updated: "2/2/2024"
 product_version: "7.0.0.47"
 ---
 
+# How Health Check Works
 
-In this article
 
 When Veeam Backup for Google Cloud saves a new restore point to a backup repository, it calculates CRC values for metadata in the backup chain and saves these values to the chain metadata, together with the Cloud Spanner instance data. When performing a health check, Veeam Backup for Google Cloud verifies availability of data blocks for each restore point and uses the saved values to ensure that the restore points being verified are consistent.
 
@@ -36,6 +36,4 @@ Depending on the detected data inconsistency, Veeam Backup for Google Cloud perf
 
 * If the health check detects corrupted data blocks in a restore point, Veeam Backup for Google Cloud marks the restore point that includes the corrupted data blocks as incomplete in the configuration database. During the next backup policy session, Veeam Backup for Google Cloud copies the full Cloud Spanner instance image, creates a new restore point and starts a new backup chain in the backup repository.
 
-Page updated 2/2/2024
 
-Page content applies to build 7.0.0.47

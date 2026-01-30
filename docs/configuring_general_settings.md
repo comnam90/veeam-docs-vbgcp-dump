@@ -1,5 +1,5 @@
 ---
-title: "configuring_general_settings"
+title: "Configuring General Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/configuring_general_settings.html"
@@ -7,8 +7,8 @@ last_updated: "3/4/2024"
 product_version: "7.0.0.47"
 ---
 
+# Configuring General Settings
 
-In this article
 
 Veeam Backup for Google Cloud allows you to configure general settings that are applied to all performed operations and deployed architecture components:
 
@@ -18,6 +18,4 @@ Veeam Backup for Google Cloud allows you to configure general settings that are 
 * [Change the time zone set on the backup appliance](changing_time_zone.md).
 * [Register applications to be able to grant permissions to service accounts in the Google Cloud console automatically](registering_applications.md).
 
-Page updated 3/4/2024
 
-Page content applies to build 7.0.0.47

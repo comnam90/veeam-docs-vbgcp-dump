@@ -1,5 +1,5 @@
 ---
-title: "removing_service_accounts"
+title: "Removing Service Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/removing_service_accounts.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Removing Service Accounts
 
-In this article
 
 Veeam Backup for Google Cloud allows you to permanently remove a service account from the configuration database if you no longer need it:
 
@@ -23,6 +23,4 @@ Veeam Backup for Google Cloud allows you to permanently remove a service account
 
 [![Removing Projects](images/service_account_remove.webp)](images/service_account_remove.webp "Removing Projects")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

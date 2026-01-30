@@ -1,5 +1,5 @@
 ---
-title: "vbgc_repository_mount_server"
+title: "Step 6. Specify Mount Server Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vbgc_repository_mount_server.html"
@@ -7,8 +7,8 @@ last_updated: "12/2/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 6. Specify Mount Server Settings
 
-In this article
 
 At the Mount Servers step of the wizard, specify settings for the [mount servers](https://helpcenter.veeam.com/docs/vbr/userguide/mount_server.html?ver=13) that will be used for Instant Recovery, guest OS file restore and application item restore. By default, Veeam Backup & Replication automatically chooses the servers that meet the [system requirements](https://helpcenter.veeam.com/docs/vbr/userguide/system_requirements.html#mount) from your backup infrastructure.
 
@@ -37,6 +37,4 @@ Related Topics
 * [Performing Guest OS File Recovery](performing_guest_file_recovery.md)
 * [Performing Application Restore](performing_application_item_restore.md)
 
-Page updated 12/2/2025
 
-Page content applies to build 7.0.0.47

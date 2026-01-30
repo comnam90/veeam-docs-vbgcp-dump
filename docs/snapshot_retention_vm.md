@@ -1,5 +1,5 @@
 ---
-title: "snapshot_retention_vm"
+title: "VM Snapshot Retention"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/snapshot_retention_vm.html"
@@ -7,8 +7,8 @@ last_updated: "2/7/2024"
 product_version: "7.0.0.47"
 ---
 
+# VM Snapshot Retention
 
-In this article
 
 For cloud-native snapshots, Veeam Backup for Google Cloud retains the number of latest restore points defined in backup scheduling settings as described in section [Creating VM Policies](backup_policy_schedule.md).
 
@@ -25,6 +25,4 @@ Related Topics
 
 [Snapshot Chain](snapshot_chain_vm.md)
 
-Page updated 2/7/2024
 
-Page content applies to build 7.0.0.47

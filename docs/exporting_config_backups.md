@@ -1,5 +1,5 @@
 ---
-title: "exporting_config_backups"
+title: "Exporting Configuration Backup Data"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/exporting_config_backups.html"
@@ -7,8 +7,8 @@ last_updated: "12/8/2025"
 product_version: "7.0.0.47"
 ---
 
+# Exporting Configuration Backup Data
 
-In this article
 
 Once Veeam Backup for Google Cloud creates a successful configuration backup, you can export the configuration backup file and use it to [restore configuration data](performing_configuration_restore_ui.md) on another backup appliance.
 
@@ -33,6 +33,4 @@ As soon as you click Export, Veeam Backup for Google Cloud will save the exporte
 
 [![Exporting Configuration Backup Data](images/config_backup_export.webp)](images/config_backup_export.webp "Exporting Configuration Backup Data")
 
-Page updated 12/8/2025
 
-Page content applies to build 7.0.0.47

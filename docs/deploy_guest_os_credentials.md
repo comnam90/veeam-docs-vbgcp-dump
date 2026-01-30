@@ -1,5 +1,5 @@
 ---
-title: "deploy_guest_os_credentials"
+title: "Step 7. Specify User Credentials"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/deploy_guest_os_credentials.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 7. Specify User Credentials
 
-In this article
 
 At the Guest OS step of the wizard, specify a user whose credentials Veeam Backup & Replication will use to create the Default Administrator account on the backup appliance.
 
@@ -16,6 +16,4 @@ For a user to be displayed in the Create the following administrator credentials
 
 ![Step 7. Specify User Credentials](images/add_gcp_guest_os_credentials.webp)
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

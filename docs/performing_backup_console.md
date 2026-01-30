@@ -1,5 +1,5 @@
 ---
-title: "performing_backup_console"
+title: "Performing Backup Using Console"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_backup_console.html"
@@ -7,8 +7,8 @@ last_updated: "6/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Performing Backup Using Console
 
-In this article
 
 To produce cloud-native snapshots and image-level backups of VM, Cloud SQL and Cloud Spanner instances, Veeam Backup for Google Cloud runs backup policies. A backup policy is a collection of settings that define the way backup operations are performed: what data to back up, where backups must be stored, when the backup process must start and so on.
 
@@ -26,6 +26,4 @@ In This Section
 * [Creating Backup Copy Jobs](backup_copy.md)
 * [Copying Backups to Tapes](copy_to_tape.md)
 
-Page updated 6/13/2025
 
-Page content applies to build 7.0.0.47

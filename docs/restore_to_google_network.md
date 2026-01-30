@@ -1,5 +1,5 @@
 ---
-title: "restore_to_google_network"
+title: "Step 7. Configure Network Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_to_google_network.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 7. Configure Network Settings
 
-In this article
 
 [This step applies only if you have selected the Restore to a new location, or with different settings option at the Restore Mode step of the wizard]
 
@@ -23,6 +23,4 @@ For a VPC network and subnet to be displayed in the lists of available networks,
 
 ![Step 7. Configure Network Settings](images/restore_to_google_network.webp)
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

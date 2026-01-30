@@ -1,5 +1,5 @@
 ---
-title: "publishing_disks"
+title: "Publishing Disks"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/publishing_disks.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Publishing Disks
 
-In this article
 
 Veeam Backup & Replication allows you to publish point-in-time disks, that is, to mount specific disks of backed-up VM instances to any server to instantly access data in the read-only mode. You can copy the necessary files and folders to the target server, and perform an antivirus scan of the backed-up data. For more information, see the Veeam Backup & Replication User Guide, section [Disk Publishing (Data Integration API)](https://helpcenter.veeam.com/docs/vbr/userguide/data_integration_api.html?ver=13).
 
@@ -26,6 +26,4 @@ To publish disks of a VM instance, do the following:
 
 [![Export disks](images/publish_disks.webp)](images/publish_disks.webp "Export disks")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

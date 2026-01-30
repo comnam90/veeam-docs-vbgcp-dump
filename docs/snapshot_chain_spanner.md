@@ -1,5 +1,5 @@
 ---
-title: "snapshot_chain_spanner"
+title: "Snapshot Chain"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/snapshot_chain_spanner.html"
@@ -7,8 +7,8 @@ last_updated: "6/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Snapshot Chain
 
-In this article
 
 During every backup session, Veeam Backup for Google Cloud creates a 'backup' of each database of a Cloud Spanner instance added to a backup policy. The set of 'backups' is a single cloud-native snapshot that Veeam Backup for Google Cloud creates using native Google Cloud capabilities.
 
@@ -44,6 +44,4 @@ Related Topics
 
 [Spanner Snapshot Retention](snapshot_retention_spanner.md)
 
-Page updated 6/13/2025
 
-Page content applies to build 7.0.0.47

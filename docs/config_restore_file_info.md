@@ -1,5 +1,5 @@
 ---
-title: "config_restore_file_info"
+title: "Step 3. Review Backup File Info"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/config_restore_file_info.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Review Backup File Info
 
-In this article
 
 Veeam Backup for Google Cloud will analyze the content of the selected backup file and display the following information:
 
@@ -20,6 +20,4 @@ At the File Content step of the wizard, review the provided information and clic
 
 [![Restoring Configuration Data](images/restoring_config_backup_info.webp)](images/restoring_config_backup_info.webp "Restoring Configuration Data")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

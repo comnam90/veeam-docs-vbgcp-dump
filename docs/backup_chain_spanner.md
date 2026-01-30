@@ -1,5 +1,5 @@
 ---
-title: "backup_chain_spanner"
+title: "Backup Chain"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_chain_spanner.html"
@@ -7,8 +7,8 @@ last_updated: "6/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Backup Chain
 
-In this article
 
 If you enable image-level backups for a backup policy, Veeam Backup for Google Cloud creates a new backup in a standard or nearline repository during every backup session. A sequence of backups created during a set of backup sessions makes up a regular backup chain.
 
@@ -26,6 +26,4 @@ Related Topics
 * [Archive Backup Chain](archive_backup_chain_spanner.md)
 * [Spanner Backup Retention](backup_retention_spanner.md)
 
-Page updated 6/13/2025
 
-Page content applies to build 7.0.0.47

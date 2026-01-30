@@ -1,5 +1,5 @@
 ---
-title: "add_repo_appliance"
+title: "Step 2. Specify Repository Details"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/add_repo_appliance.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 2. Specify Repository Details
 
-In this article
 
 At the Veeam Backup for GCP step of the wizard, do the following:
 
@@ -22,6 +22,4 @@ Veeam Backup & Replication will create a folder with the specified name in the s
 
 [![GCP Repository - Repository details](images/add_standard_repository_appliance.webp)](images/add_standard_repository_appliance.webp "GCP Repository - Repository details")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

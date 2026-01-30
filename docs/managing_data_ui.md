@@ -1,5 +1,5 @@
 ---
-title: "managing_data_ui"
+title: "Managing Backed-Up Data Using Web UI"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/managing_data_ui.html"
@@ -7,8 +7,8 @@ last_updated: "11/20/2025"
 product_version: "7.0.0.47"
 ---
 
+# Managing Backed-Up Data Using Web UI
 
-In this article
 
 After a backup policy successfully creates a restore point for a Google Cloud resource, or after you create a snapshot of a resource manually using Veeam Backup for Google Cloud, the resource is automatically added to the resource list on the Protected Data page.
 
@@ -63,6 +63,4 @@ To remove restore points manually, do the following:
 
 [![Removing Snapshots](images/removing_snapshots.webp)](images/removing_snapshots.webp "Removing Snapshots")
 
-Page updated 11/20/2025
 
-Page content applies to build 7.0.0.47

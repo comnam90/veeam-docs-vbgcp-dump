@@ -1,5 +1,5 @@
 ---
-title: "sql_account_edit"
+title: "Editing Cloud SQL Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_account_edit.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing Cloud SQL Accounts
 
-In this article
 
 For each Cloud SQL account, you can modify settings configured while adding the account:
 
@@ -23,6 +23,4 @@ For each Cloud SQL account, you can modify settings configured while adding the 
 
 [![Editing User Accounts](images/sql_accounts_edit.webp)](images/sql_accounts_edit.webp "Editing User Accounts")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

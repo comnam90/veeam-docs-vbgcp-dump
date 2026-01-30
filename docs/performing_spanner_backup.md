@@ -1,5 +1,5 @@
 ---
-title: "performing_spanner_backup"
+title: "Performing Spanner Backup"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_spanner_backup.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2023"
 product_version: "7.0.0.47"
 ---
 
+# Performing Spanner Backup
 
-In this article
 
 One backup policy can be used to process one or more Cloud Spanner instances within one Google Cloud project or folder. The scope of data that you can protect in a project or folder is limited by permissions of a service account that is specified in the backup policy settings.
 
@@ -19,6 +19,4 @@ Before you create a Cloud Spanner backup policy, check the following prerequisit
 
 To schedule data protection tasks to run automatically, [create backup policies](creating_spanner_backup_policies.md). For each protected Cloud Spanner instance, you can also [take a cloud-native snapshot manually](creating_manual_snapshots_spanner.md) when needed.
 
-Page updated 11/13/2023
 
-Page content applies to build 7.0.0.47

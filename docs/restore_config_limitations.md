@@ -1,5 +1,5 @@
 ---
-title: "restore_config_limitations"
+title: "Before You Begin"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_config_limitations.html"
@@ -7,8 +7,8 @@ last_updated: "11/23/2023"
 product_version: "7.0.0.47"
 ---
 
+# Before You Begin
 
-In this article
 
 Before you restore configuration of a backup appliance, consider the following:
 
@@ -24,6 +24,4 @@ Before you restore configuration of a backup appliance, consider the following:
 
 * During configuration restore, Veeam Backup & Replication will overwrite custom settings of the Linux configuration file on the backup appliance with the settings saved in the configuration backup file.
 
-Page updated 11/23/2023
 
-Page content applies to build 7.0.0.47

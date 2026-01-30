@@ -1,5 +1,5 @@
 ---
-title: "restore_sql_instance_mode"
+title: "Step 3. Choose Restore Mode"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_sql_instance_mode.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Choose Restore Mode
 
-In this article
 
 At the Restore Mode step of the wizard, do the following:
 
@@ -30,6 +30,4 @@ For a service account to be displayed in the list of available accounts, it must
 
 ![Step 3. Choose Restore Mode](images/restore_instance_sql_mode.webp)
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

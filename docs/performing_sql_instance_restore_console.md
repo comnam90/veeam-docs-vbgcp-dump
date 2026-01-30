@@ -1,5 +1,5 @@
 ---
-title: "performing_sql_instance_restore_console"
+title: "Performing SQL Instance Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_sql_instance_restore_console.html"
@@ -7,8 +7,8 @@ last_updated: "11/22/2024"
 product_version: "7.0.0.47"
 ---
 
+# Performing SQL Instance Restore
 
-In this article
 
 In case a disaster strikes, you can restore an entire Cloud SQL instance from a cloud-native snapshot or an image-level backup. Veeam Backup & Replication allows you to restore one or more Cloud SQL instances at a time, to the original location or to a new location. To learn how Cloud SQL restore works, see [Performing Instance Restore](performing_sql_instance_restore_ui.md).
 
@@ -25,6 +25,4 @@ To restore a Cloud SQL instance, do the following:
 9. [Specify a restore reason](restore_sql_instance_reason.md).
 10. [Finish working with the wizard](restore_sql_instance_finish.md).
 
-Page updated 11/22/2024
 
-Page content applies to build 7.0.0.47

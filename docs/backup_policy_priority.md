@@ -1,5 +1,5 @@
 ---
-title: "backup_policy_priority"
+title: "Setting Backup Policy Priority"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_policy_priority.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2025"
 product_version: "7.0.0.47"
 ---
 
+# Setting Backup Policy Priority
 
-In this article
 
 By default, Veeam Backup for Google Cloud runs backup policies in the order you create them. However, you can set the backup policy priority manually:
 
@@ -27,6 +27,4 @@ By default, Veeam Backup for Google Cloud runs backup policies in the order you 
 
 [![Changing Backup Policy Priority](images/policy_priority.webp)](images/policy_priority.webp "Changing Backup Policy Priority")
 
-Page updated 11/21/2025
 
-Page content applies to build 7.0.0.47

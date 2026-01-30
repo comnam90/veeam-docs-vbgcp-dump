@@ -1,5 +1,5 @@
 ---
-title: "vm_restore_ui"
+title: "VM Restore Using Web UI"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vm_restore_ui.html"
@@ -7,8 +7,8 @@ last_updated: "11/21/2024"
 product_version: "7.0.0.47"
 ---
 
+# VM Restore Using Web UI
 
-In this article
 
 Veeam Backup for Google Cloud offers the following restore operations:
 
@@ -18,6 +18,4 @@ Veeam Backup for Google Cloud offers the following restore operations:
 
 You can restore VM instance data to the most recent state or to any available restore point.
 
-Page updated 11/21/2024
 
-Page content applies to build 7.0.0.47

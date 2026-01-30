@@ -1,5 +1,5 @@
 ---
-title: "flr_restore_mode"
+title: "Step 3. Choose Restore Mode"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/flr_restore_mode.html"
@@ -7,8 +7,8 @@ last_updated: "12/8/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Choose Restore Mode
 
-In this article
 
 At the Restore Mode step of the wizard, choose whether you want to download files and folders to a local machine or restore them to the original location. If you set the Restore to original location toggle to On, you must also specify a service account that has all the permissions required to perform the restore operation. For more information on the required permissions, see [Service Account Permissions](restore_permissions.md#vm).
 
@@ -37,6 +37,4 @@ If the instance is a Windows-based VM, it must have Windows Remote Management (W
 
 [![Restoring VM Files and Folders](images/flr_restore_mode.webp)](images/flr_restore_mode.webp "Restoring VM Files and Folders")
 
-Page updated 12/8/2025
 
-Page content applies to build 7.0.0.47

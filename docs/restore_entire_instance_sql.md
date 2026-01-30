@@ -1,5 +1,5 @@
 ---
-title: "restore_entire_instance_sql"
+title: "Instance Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_entire_instance_sql.html"
@@ -7,8 +7,8 @@ last_updated: "12/27/2023"
 product_version: "7.0.0.47"
 ---
 
+# Instance Restore
 
-In this article
 
 To restore a Cloud SQL instance from a cloud-native snapshot, Veeam Backup for Google Cloud first creates a Cloud SQL instance in the target location and then uses [native Google Cloud capabilities](https://cloud.google.com/sql/docs/mysql/backup-recovery/restore) to revert the instance to the snapshot. Restore of Cloud SQL instances from cloud-native snapshots is supported only to a new location or with different settings.
 
@@ -29,6 +29,4 @@ For more information on how to specify a project for worker instances, see [Mana
 
 To learn how to restore a Cloud SQL instance from a cloud-native snapshot or an image-level backup, see [Performing SQL Instance Restore](performing_sql_instance_restore_ui.md).
 
-Page updated 12/27/2023
 
-Page content applies to build 7.0.0.47

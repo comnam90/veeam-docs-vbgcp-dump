@@ -1,5 +1,5 @@
 ---
-title: "sizing_guidelines"
+title: "Sizing and Scalability Guidelines"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sizing_guidelines.html"
@@ -7,8 +7,8 @@ last_updated: "11/28/2024"
 product_version: "7.0.0.47"
 ---
 
+# Sizing and Scalability Guidelines
 
-In this article
 
 This section is intended for professionals who search for a best practice answer to sizing-related issues, and assumes you have already read the whole Veeam Backup for Google Cloud User Guide.
 
@@ -21,6 +21,4 @@ In This Section
 * [Backup Policies](policy_recommendations.md)
 * [Worker Instances](worker_recommendations.md)
 
-Page updated 11/28/2024
 
-Page content applies to build 7.0.0.47

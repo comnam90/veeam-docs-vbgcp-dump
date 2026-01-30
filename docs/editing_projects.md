@@ -1,5 +1,5 @@
 ---
-title: "editing_projects"
+title: "Editing Projects and Folders"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_projects.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing Projects and Folders
 
-In this article
 
 For each project or folder, you can modify settings configured while adding the entity:
 
@@ -31,6 +31,4 @@ For each project or folder, you can modify settings configured while adding the 
 
 [![Editing Projects](images/project_edit.webp)](images/project_edit.webp "Editing Projects")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "removing_appliances"
+title: "Removing Appliances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/removing_appliances.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Removing Appliances
 
-In this article
 
 Veeam Plug-in for Google Cloud allows you to permanently remove backup appliances from the backup infrastructure.
 
@@ -37,6 +37,4 @@ In this case, Veeam Backup for Google Cloud will remove all resources associated
 
 [![Remove appliance](images/remove_gcp_server.webp)](images/remove_gcp_server.webp "Remove appliance")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

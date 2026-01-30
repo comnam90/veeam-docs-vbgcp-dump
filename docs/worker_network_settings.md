@@ -1,5 +1,5 @@
 ---
-title: "worker_network_settings"
+title: "Step 3. Specify Network Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/worker_network_settings.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Specify Network Settings
 
-In this article
 
 At the Network step of the wizard, do the following:
 
@@ -32,6 +32,4 @@ For a firewall rule to be displayed in the list of available rules, it must be c
 
 [![Adding Worker Configuration](images/worker_network.webp)](images/worker_network.webp "Adding Worker Configuration")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

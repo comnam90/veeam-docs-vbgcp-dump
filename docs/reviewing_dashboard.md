@@ -1,5 +1,5 @@
 ---
-title: "reviewing_dashboard"
+title: "Reviewing Dashboard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/reviewing_dashboard.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Reviewing Dashboard
 
-In this article
 
 Veeam Backup for Google Cloud comes with an Overview dashboard that provides at-a-glance real-time overview of the protected Google Cloud resources and allows you to estimate the overall backup performance. The dashboard includes the following widgets:
 
@@ -44,6 +44,4 @@ To learn how to resolve a bottleneck, click the How to resolve? link in the widg
 
 [![Viewing Dashboard](images/dashboard.webp)](images/dashboard.webp "Viewing Dashboard")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

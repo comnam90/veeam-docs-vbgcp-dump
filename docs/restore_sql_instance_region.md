@@ -1,5 +1,5 @@
 ---
-title: "restore_sql_instance_region"
+title: "Step 4. Select Project, Region and Availability Zone"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_sql_instance_region.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4. Select Project, Region and Availability Zone
 
-In this article
 
 [This step applies only if you have selected the Restore to a new location, or with different settings option at the Restore Mode step of the wizard]
 
@@ -23,6 +23,4 @@ For a project to be displayed in the list of available projects, it must be crea
 
 ![Step 4. Select Project, Region and Availability Zone](images/restore_instance_sql_project.webp)
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

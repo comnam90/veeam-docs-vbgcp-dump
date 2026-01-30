@@ -1,5 +1,5 @@
 ---
-title: "flr_stop_session"
+title: "Step 8. Stop Recovery Session"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/flr_stop_session.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 8. Stop Recovery Session
 
-In this article
 
 After you finish working with the file-level recovery browser, it is recommended that you stop the running recovery session so that Veeam Backup for Google Cloud can detach persistent disks of the processed VM instance from the deployed worker instance and remove the worker instance from Google Cloud.
 
@@ -21,6 +21,4 @@ To stop the recovery session, click Stop Recovery Session in the FLR Running Ses
 
 [![Restoring VM Files and Folders](images/item_restore_finish.webp)](images/item_restore_finish.webp "Restoring VM Files and Folders")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

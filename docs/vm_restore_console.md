@@ -1,5 +1,5 @@
 ---
-title: "vm_restore_console"
+title: "VM Restore Using Console"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vm_restore_console.html"
@@ -7,8 +7,8 @@ last_updated: "9/3/2024"
 product_version: "7.0.0.47"
 ---
 
+# VM Restore Using Console
 
-In this article
 
 Veeam Backup & Replication offers the following restore operations:
 
@@ -23,6 +23,4 @@ You can restore VM instance data to the most recent state or to any available re
 | Note |
 | You can use restore points stored in standard repositories to perform all the listed recovery operations, while restore points stored in archive repositories can only be used to perform restore of VM instances to the original or to a new location. |
 
-Page updated 9/3/2024
 
-Page content applies to build 7.0.0.47

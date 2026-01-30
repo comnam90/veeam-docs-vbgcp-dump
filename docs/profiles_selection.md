@@ -1,5 +1,5 @@
 ---
-title: "profiles_selection"
+title: "Step 3. Choose Worker Profiles"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/profiles_selection.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 3. Choose Worker Profiles
 
-In this article
 
 At the Worker Profiles step of the wizard, choose profiles that will be used to deploy workers in the selected regions. To help you choose, tables in the Choose machine type sections will provide information on the number of vCPU cores and the amount of system RAM for each available machine type.
 
@@ -25,6 +25,4 @@ Related Topics
 
 [Sizing and Scalability Guidelines](worker_recommendations.md)
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

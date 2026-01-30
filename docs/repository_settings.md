@@ -1,5 +1,5 @@
 ---
-title: "repository_settings"
+title: "Step 5. Configure Repository Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/repository_settings.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Configure Repository Settings
 
-In this article
 
 At the Storage Bucket step of the wizard, do the following:
 
@@ -46,6 +46,4 @@ For the full description of Google Cloud storage classes, see [Google Cloud docu
 
 [![Adding Backup Repository](images/repository_settings.webp)](images/repository_settings.webp "Adding Backup Repository")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

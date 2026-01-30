@@ -1,5 +1,5 @@
 ---
-title: "snapshot_retention_sql"
+title: "SQL Snapshot Retention"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/snapshot_retention_sql.html"
@@ -7,8 +7,8 @@ last_updated: "12/14/2023"
 product_version: "7.0.0.47"
 ---
 
+# SQL Snapshot Retention
 
-In this article
 
 For cloud-native snapshots, Veeam Backup for Google Cloud retains the number of latest restore points defined in backup scheduling settings as described in section [Creating SQL Policies](sql_policy_schedule.md).
 
@@ -21,6 +21,4 @@ During every successful backup session, Veeam Backup for Google Cloud creates a 
 | Note |
 | Retention policy settings configured when creating backup policies do not apply to cloud-native snapshots created manually. To learn how to remove these snapshots, see [Removing Backups and Snapshots](managing_data_ui.md#removing). |
 
-Page updated 12/14/2023
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "appliance_upgrade_console"
+title: "Updating Appliances Using Console"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/appliance_upgrade_console.html"
@@ -7,8 +7,8 @@ last_updated: "12/5/2025"
 product_version: "7.0.0.47"
 ---
 
+# Updating Appliances Using Console
 
-In this article
 
 Starting from Veeam Backup for Google Cloud version 6, you can upgrade backup appliances in the Veeam Backup & Replication console only. To perform upgrade of Veeam Backup for Google Cloud to version 7, the backup appliance must be running version 5.0 or later.
 
@@ -31,6 +31,4 @@ Related Topics
 
 [Upgrading to Version 7 from Version 6](upgrade_vb_console.md)
 
-Page updated 12/5/2025
 
-Page content applies to build 7.0.0.47

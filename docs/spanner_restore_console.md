@@ -1,5 +1,5 @@
 ---
-title: "spanner_restore_console"
+title: "Spanner Restore Using Console"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/spanner_restore_console.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Spanner Restore Using Console
 
-In this article
 
 You can recover corrupted Cloud Spanner instances and databases in the Veeam Backup for Google Cloud Web UI only. However, you can launch the Cloud Spanner Restore wizard directly from the Veeam Backup & Replication console to start the restore operation:
 
@@ -22,6 +22,4 @@ Veeam Backup & Replication will open the Cloud Spanner Restore wizard in a web b
 
 [![SQL restore - Launch](images/restore_instance_spanner_launch.webp)](images/restore_instance_spanner_launch.webp "SQL restore - Launch")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

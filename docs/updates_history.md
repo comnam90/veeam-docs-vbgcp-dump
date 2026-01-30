@@ -1,5 +1,5 @@
 ---
-title: "updates_history"
+title: "Viewing Updates History"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/updates_history.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Viewing Updates History
 
-In this article
 
 To see the results of the update installation performed on the backup appliance, do the following:
 
@@ -24,6 +24,4 @@ To download logs for the installed updates, select the necessary date in the Dat
 
 [![Viewing Update History](images/updates_log.webp)](images/updates_log.webp "Viewing Update History")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

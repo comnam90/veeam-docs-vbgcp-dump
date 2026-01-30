@@ -1,5 +1,5 @@
 ---
-title: "restore_config_finish"
+title: "Step 8. Finish Working with Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_config_finish.html"
@@ -7,8 +7,8 @@ last_updated: "11/20/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 8. Finish Working with Wizard
 
-In this article
 
 At the Summary step of the wizard, click Finish to finalize the process of configuration data restore.
 
@@ -16,6 +16,4 @@ If Veeam Backup & Replication encounters an issue while performing configuration
 
 ![Step 8. Finish Working with Wizard](images/config_restore_finish.webp)
 
-Page updated 11/20/2025
 
-Page content applies to build 7.0.0.47

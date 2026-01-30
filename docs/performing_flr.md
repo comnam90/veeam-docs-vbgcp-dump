@@ -1,5 +1,5 @@
 ---
-title: "performing_flr"
+title: "Performing File-Level Recovery"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_flr.html"
@@ -7,8 +7,8 @@ last_updated: "12/2/2025"
 product_version: "7.0.0.47"
 ---
 
+# Performing File-Level Recovery
 
-In this article
 
 In case a disaster strikes, you can recover corrupted or missing files of a VM instance from a cloud-native snapshot or image-level backup. Veeam Backup for Google Cloud allows you to download the necessary files and folders to a local machine or to their original location using the [file-level recovery browser](flr_items.md).
 
@@ -33,6 +33,4 @@ To recover files and folders of a protected VM instance, do the following:
 | Important |
 | Before you start file-lever recovery, check the following prerequisites:   * Make sure that network settings are configured for each region where worker instances will be deployed during the recovery process. For information on how to configure network settings, see [Adding Worker Configurations](worker_network_settings.md).  * Make sure that the machine where you plan to open the file-level recovery browser is allowed to access the worker instances over the internet. To enable internet access for a worker instance, update the firewall rule specified in the instance network settings to add an inbound rule for HTTPS traffic on the port 443. For information on how to update firewall rules, see [Google Cloud documentation](https://cloud.google.com/vpc/docs/using-firewalls). |
 
-Page updated 12/2/2025
 
-Page content applies to build 7.0.0.47

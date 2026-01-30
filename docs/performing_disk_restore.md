@@ -1,5 +1,5 @@
 ---
-title: "performing_disk_restore"
+title: "Performing Disk Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_disk_restore.html"
@@ -7,8 +7,8 @@ last_updated: "8/30/2023"
 product_version: "7.0.0.47"
 ---
 
+# Performing Disk Restore
 
-In this article
 
 In case a disaster strikes, you can restore corrupted persistent disks of a VM instance from a cloud-native snapshot or image-level backup. Veeam Backup for Google Cloud allows you to restore persistent disks to the original location or to a new location.
 
@@ -36,6 +36,4 @@ To restore persistent disks attached to a protected VM instance, do the followin
 | Important |
 | Before you start disk restore, make sure that network settings are configured for each region where worker instances will be deployed during the restore process. For information on how to configure network settings, see [Adding Worker Configurations](worker_network_settings.md). |
 
-Page updated 8/30/2023
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "vbgc_connection_type"
+title: "Step 5. Specify Connection Type"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vbgc_connection_type.html"
@@ -7,8 +7,8 @@ last_updated: "12/9/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Specify Connection Type
 
-In this article
 
 At the Connection Type step of the wizard, choose whether you want to assign a dynamic or a static public IP address to the backup appliance, or use only a private IP address. After the backup appliance is deployed, Veeam Backup & Replication will use the specified connection type to connect to the appliance.
 
@@ -25,6 +25,4 @@ To assign a static IP address, you can either reserve a new address or specify a
 
 ![Step 5. Specify Connection Type](images/vbgc_connection_type.webp)
 
-Page updated 12/9/2025
 
-Page content applies to build 7.0.0.47

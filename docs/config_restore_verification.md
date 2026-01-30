@@ -1,5 +1,5 @@
 ---
-title: "config_restore_verification"
+title: "Step 6. View Configuration Check Results"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/config_restore_verification.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 6. View Configuration Check Results
 
-In this article
 
 After the restore process is over, Veeam Backup for Google Cloud will run a number of verification checks to confirm that the configuration data has been restored successfully. At the Configuration Check step of the wizard, wait for the verification checks to complete and click Next.
 
@@ -33,6 +33,4 @@ To make sure that the missing permissions have been successfully granted, click 
 
 [![Restoring Configuration Data](images/restoring_config_backup_checks.webp)](images/restoring_config_backup_checks.webp "Restoring Configuration Data")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

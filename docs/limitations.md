@@ -1,5 +1,5 @@
 ---
-title: "limitations"
+title: "Considerations and Limitations"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/limitations.html"
@@ -7,8 +7,8 @@ last_updated: "12/8/2025"
 product_version: "7.0.0.47"
 ---
 
+# Considerations and Limitations
 
-In this article
 
 When you plan to deploy and configure Veeam Backup for Google Cloud, keep in mind the following limitations and considerations.
 
@@ -93,6 +93,4 @@ To learn how to provide access to Shared VPC networks, see [Google Cloud documen
 * Due to [Google Cloud technical limitations](https://cloud.google.com/sql/docs/troubleshooting#managing-instances), Veeam Backup for Google Cloud does not support database restore to the original location if the source database is still located on the server.
 * When restoring Cloud SQL instances, Veeam Backup for Google Cloud turns off the point in time recovery setting, and it is turned on automatically only as soon as the restore process completes, which means that all the historical data is lost.
 
-Page updated 12/8/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "removing_worker_profiles"
+title: "Removing Worker Profiles"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/removing_worker_profiles.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Removing Worker Profiles
 
-In this article
 
 Veeam Backup for Google Cloud allows you to permanently remove sets of worker profiles if you no longer need them. When you remove a profile set, Veeam Backup for Google Cloud does not remove currently running worker instances that have been created based on this set — these instances are removed only when the related operations complete.
 
@@ -25,6 +25,4 @@ To remove a profile set from Veeam Backup for Google Cloud, do the following:
 
 [![Removing Worker Profiles](images/removing_profiles.webp)](images/removing_profiles.webp "Removing Worker Profiles")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

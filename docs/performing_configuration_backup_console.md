@@ -1,5 +1,5 @@
 ---
-title: "performing_configuration_backup_console"
+title: "Performing Configuration Backup Using Console"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_configuration_backup_console.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Performing Configuration Backup Using Console
 
-In this article
 
 When Veeam Backup & Replication performs configuration backup, it backs up the configuration of the backup server and also configurations of all backup appliances added to the backup infrastructure.
 
@@ -49,6 +49,4 @@ Veeam Backup & Replication stores configuration backups of backup appliances in 
 | Notes |
 | * It is not recommended to store configuration backups in any folder on the backup server. Otherwise, you will not be able to restore the configurations of managed backup appliances in case the backup server goes down. * If the name of an appliance contains unsupported characters, these characters are replaced with the '\_' underscore symbol in the name format for a subfolder and a backup files. |
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

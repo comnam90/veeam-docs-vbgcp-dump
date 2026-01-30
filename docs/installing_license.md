@@ -1,5 +1,5 @@
 ---
-title: "installing_license"
+title: "Appendix B. Installing and Removing Backup Appliance License"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/installing_license.html"
@@ -7,8 +7,8 @@ last_updated: "11/20/2025"
 product_version: "7.0.0.47"
 ---
 
+# Appendix B. Installing and Removing Backup Appliance License
 
-In this article
 
 To remove a license installed on the backup appliance if you no longer need it, do the following:
 
@@ -23,6 +23,4 @@ Related Topics
 
 [Viewing License Information](viewing_license_information.md)
 
-Page updated 11/20/2025
 
-Page content applies to build 7.0.0.47

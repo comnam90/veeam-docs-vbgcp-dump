@@ -1,5 +1,5 @@
 ---
-title: "editing_service_accounts"
+title: "Editing Service Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_service_accounts.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Editing Service Accounts
 
-In this article
 
 For each service account, you can only edit the description provided while adding the account:
 
@@ -20,6 +20,4 @@ For each service account, you can only edit the description provided while addin
 
 [![Editing Service Accounts](images/service_account_edit.webp)](images/service_account_edit.webp "Editing Service Accounts")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

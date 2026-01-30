@@ -1,5 +1,5 @@
 ---
-title: "performing_application_item_restore"
+title: "Performing Application Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/performing_application_item_restore.html"
@@ -7,8 +7,8 @@ last_updated: "11/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Performing Application Restore
 
-In this article
 
 Veeam Backup & Replication provides auxiliary tools — Veeam Explorers — that allow you to restore application items directly from image-level backups of VM instances. You can restore items of the following applications: Microsoft Entra ID, Microsoft Exchange, Microsoft SharePoint, Microsoft SQL Server and Oracle Database. For more information, see the [Veeam Explorers User Guide](https://helpcenter.veeam.com/docs/backup/explorers/explorers_introduction.html?ver=120).
 
@@ -27,6 +27,4 @@ To perform application restore, do the following:
 
 [![Restore application items](images/restore_application_items.webp)](images/restore_application_items.webp "Restore application items")
 
-Page updated 11/13/2025
 
-Page content applies to build 7.0.0.47

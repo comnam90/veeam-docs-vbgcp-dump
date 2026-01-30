@@ -1,5 +1,5 @@
 ---
-title: "revoking_license_units"
+title: "Revoking License Units"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/revoking_license_units.html"
@@ -7,8 +7,8 @@ last_updated: "11/5/2025"
 product_version: "7.0.0.47"
 ---
 
+# Revoking License Units
 
-In this article
 
 By default, Veeam Backup for Google Cloud automatically revokes a license unit from a protected instance if no new restore points have been created by the backup policy during the past 31 days. However, you can manually revoke license units from protected instances — this can be helpful, for example, if you remove a number of instances from a backup policy and do not want to protect them anymore.
 
@@ -35,6 +35,4 @@ To revoke a license unit from a protected instance in the Veeam Backup for Googl
 
 [![Revoking License Units](images/revoking_license.webp)](images/revoking_license.webp "Revoking License Units")
 
-Page updated 11/5/2025
 
-Page content applies to build 7.0.0.47

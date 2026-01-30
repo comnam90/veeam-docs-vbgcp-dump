@@ -1,5 +1,5 @@
 ---
-title: "connect_existing_repository"
+title: "Connecting to Existing Repositories"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/connect_existing_repository.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Connecting to Existing Repositories
 
-In this article
 
 When you connect to a backup appliance, all repositories that have already been configured on the appliance are automatically added to the backup infrastructure.
 
@@ -30,6 +30,4 @@ Open the Backup Infrastructure view to verify that the repository is displayed u
 
 [![GCP Standard Repository](images/connect_existing_repos.webp)](images/connect_existing_repos.webp "GCP Standard Repository")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

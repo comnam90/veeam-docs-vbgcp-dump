@@ -1,5 +1,5 @@
 ---
-title: "backup_vm"
+title: "VM Backup"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_vm.html"
@@ -7,8 +7,8 @@ last_updated: "12/11/2023"
 product_version: "7.0.0.47"
 ---
 
+# VM Backup
 
-In this article
 
 Veeam Backup for Google Cloud performs VM instance backup in the following way:
 
@@ -44,6 +44,4 @@ Related Topics
 * [Backup Chain](backup_chain_vm.md)
 * [VM Backup Retention](backup_retention_vm.md)
 
-Page updated 12/11/2023
 
-Page content applies to build 7.0.0.47

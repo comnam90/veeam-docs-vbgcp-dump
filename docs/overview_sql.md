@@ -1,5 +1,5 @@
 ---
-title: "overview_sql"
+title: "Protecting Cloud SQL Instances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/overview_sql.html"
@@ -7,8 +7,8 @@ last_updated: "6/13/2025"
 product_version: "7.0.0.47"
 ---
 
+# Protecting Cloud SQL Instances
 
-In this article
 
 To produce cloud-native snapshots and image-level backups of Cloud SQL instances, Veeam Backup for Google Cloud runs backup policies. A backup policy is a collection of settings that define the way backup operations are performed: what data to back up, where to store backups, when to start the backup process and so on.
 
@@ -30,6 +30,4 @@ Related Topics
 
 [SQL Restore](restore_sql.md)
 
-Page updated 6/13/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "google_cloud_apis"
+title: "Google Cloud APIs"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/google_cloud_apis.html"
@@ -7,8 +7,8 @@ last_updated: "12/9/2025"
 product_version: "7.0.0.47"
 ---
 
+# Google Cloud APIs
 
-In this article
 
 Veeam Plug-in for Google Cloud, backup appliance and worker instances must have outbound internet access to the following Google Cloud APIs:
 
@@ -27,6 +27,4 @@ Veeam Plug-in for Google Cloud, backup appliance and worker instances must have 
 * [Cloud Infrastructure Manager API](https://docs.cloud.google.com/infrastructure-manager/docs/reference/rest)
 * [Cloud Identity-Aware Proxy API](https://cloud.google.com/iap/docs/reference/rest)
 
-Page updated 12/9/2025
 
-Page content applies to build 7.0.0.47

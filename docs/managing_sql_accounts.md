@@ -1,5 +1,5 @@
 ---
-title: "managing_sql_accounts"
+title: "Managing Cloud SQL Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/managing_sql_accounts.html"
@@ -7,8 +7,8 @@ last_updated: "3/6/2024"
 product_version: "7.0.0.47"
 ---
 
+# Managing Cloud SQL Accounts
 
-In this article
 
 To allow Veeam Backup for Google Cloud to authenticate against Cloud SQL instances protected by backup policies, you must specify credentials that will be used to access the instances.
 
@@ -25,6 +25,4 @@ In This Section
 * [Editing Cloud SQL Accounts](sql_account_edit.md)
 * [Removing Cloud SQL Accounts](sql_account_remove.md)
 
-Page updated 3/6/2024
 
-Page content applies to build 7.0.0.47

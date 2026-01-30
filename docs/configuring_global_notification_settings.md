@@ -1,5 +1,5 @@
 ---
-title: "configuring_global_notification_settings"
+title: "Configuring Global Notification Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/configuring_global_notification_settings.html"
@@ -7,8 +7,8 @@ last_updated: "11/12/2025"
 product_version: "7.0.0.47"
 ---
 
+# Configuring Global Notification Settings
 
-In this article
 
 You can specify email notification settings for automated delivery of backup policy results and daily reports. Every daily report contains cumulative statistics for all backup policy and snapshot retention sessions run within the past 24-hour period.
 
@@ -91,6 +91,4 @@ When registering the application, make sure that the redirect URI specified for 
 
 [![Configuring Notification Settings](images/notification_settings.webp)](images/notification_settings.webp "Configuring Notification Settings")
 
-Page updated 11/12/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "creating_spanner_backup_policies"
+title: "Creating Backup Policies"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/creating_spanner_backup_policies.html"
@@ -7,8 +7,8 @@ last_updated: "10/22/2025"
 product_version: "7.0.0.47"
 ---
 
+# Creating Backup Policies
 
-In this article
 
 To create a backup policy, do the following:
 
@@ -23,6 +23,4 @@ To create a backup policy, do the following:
 9. [Check the required permissions](spanner_policy_permissions.md).
 10. [Finish working with the wizard](spanner_policy_finish.md).
 
-Page updated 10/22/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "adding_backup_admins"
+title: "Adding User Accounts"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/adding_backup_admins.html"
@@ -7,8 +7,8 @@ last_updated: "8/7/2023"
 product_version: "7.0.0.47"
 ---
 
+# Adding User Accounts
 
-In this article
 
 To add a new user account, do the following:
 
@@ -17,6 +17,4 @@ To add a new user account, do the following:
 3. [Specify a password](backup_admin_password.md).
 4. [Finish working with the wizard](backup_admin_finish.md).
 
-Page updated 8/7/2023
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "verifying_backups"
+title: "Verifying Backups"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/verifying_backups.html"
@@ -7,8 +7,8 @@ last_updated: "11/18/2025"
 product_version: "7.0.0.47"
 ---
 
+# Verifying Backups
 
-In this article
 
 To verify recoverability of backups, Veeam Backup & Replication offers the SureBackup technology that allows you to ensure that the created restore points are consistent and that you will be able to restore data using these restore points. For backups of Windows VM instances, you can also scan the restore points with antivirus software installed on the backup server, and run YARA rules to detect malware and sensitive data
 
@@ -27,6 +27,4 @@ If any of the verification checks fail for a restore point, Veeam Backup & Repli
 
 [![Verifying Backups](images/surebackup_job.webp)](images/surebackup_job.webp "Verifying Backups")
 
-Page updated 11/18/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "architecture_overview"
+title: "Solution Architecture"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/architecture_overview.html"
@@ -7,8 +7,8 @@ last_updated: "12/8/2025"
 product_version: "7.0.0.47"
 ---
 
+# Solution Architecture
 
-In this article
 
 The Veeam Backup for Google Cloud architecture includes the following components:
 
@@ -29,6 +29,4 @@ Related Topics
 * [Ports](ports.md)
 * [Google Cloud APIs](google_cloud_apis.md)
 
-Page updated 12/8/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "vm_restore_wizard"
+title: "Step 1. Launch VM Instance Restore Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vm_restore_wizard.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 1. Launch VM Instance Restore Wizard
 
-In this article
 
 To launch the VM Instance Restore wizard, do the following:
 
@@ -17,6 +17,4 @@ To launch the VM Instance Restore wizard, do the following:
 
 [![Restoring VM Instance](images/vm_restore_wizard.webp)](images/vm_restore_wizard.webp "Restoring VM Instance")
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

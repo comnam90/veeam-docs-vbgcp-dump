@@ -1,5 +1,5 @@
 ---
-title: "creating_manual_snapshots_sql"
+title: "Creating Snapshots Manually"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/creating_manual_snapshots_sql.html"
@@ -7,8 +7,8 @@ last_updated: "11/11/2025"
 product_version: "7.0.0.47"
 ---
 
+# Creating Snapshots Manually
 
-In this article
 
 Veeam Backup for Google Cloud allows you to manually create snapshots of Cloud SQL instances. Each snapshot is saved to the multi-regional location closest to the region in which the original Cloud SQL instance resides.
 
@@ -30,6 +30,4 @@ For a service account to be displayed in the Service account drop-down list, it 
 
 [![Creating Snapshot Manually](images/manual_snapshot_sql.webp)](images/manual_snapshot_sql.webp "Creating Snapshot Manually")
 
-Page updated 11/11/2025
 
-Page content applies to build 7.0.0.47

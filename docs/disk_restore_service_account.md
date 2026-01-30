@@ -1,5 +1,5 @@
 ---
-title: "disk_restore_service_account"
+title: "Step 4. Select Service Account"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/disk_restore_service_account.html"
@@ -7,8 +7,8 @@ last_updated: "11/4/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 4. Select Service Account
 
-In this article
 
 [This step applies only if you have selected the Restore to original location, with original settings option at the Restore Mode step of the wizard]
 
@@ -20,6 +20,4 @@ If you have not added the necessary service account to Veeam Backup for Google C
 
 [![Restoring VM Disks](images/disk_restore_service_acc.webp)](images/disk_restore_service_acc.webp "Restoring VM Disks")
 
-Page updated 11/4/2025
 
-Page content applies to build 7.0.0.47

@@ -1,5 +1,5 @@
 ---
-title: "project_permissions"
+title: "Step 5. Check Required Permissions"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/project_permissions.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Check Required Permissions
 
-In this article
 
 At the Permissions step of the wizard, Veeam Backup for Google Cloud will verify whether the specified service account has all the permissions required to perform the defined operations in the selected project or folder. For more information on the required permissions, see [Service Account Permissions](permissions.md).
 
@@ -36,6 +36,4 @@ To make sure that the missing permissions have been successfully granted, click 
 
 [![Adding Project](images/project_permissions.webp)](images/project_permissions.webp "Adding Project")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47

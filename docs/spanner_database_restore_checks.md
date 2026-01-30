@@ -1,5 +1,5 @@
 ---
-title: "spanner_database_restore_checks"
+title: "Step 5. Check Required Permissions"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/spanner_database_restore_checks.html"
@@ -7,8 +7,8 @@ last_updated: "11/14/2025"
 product_version: "7.0.0.47"
 ---
 
+# Step 5. Check Required Permissions
 
-In this article
 
 At the Permissions step of the wizard, Veeam Backup for Google Cloud will verify whether the specified service account has all the necessary permissions required to perform data recovery tasks for the selected project. For more information on the required permissions, see [Service Account Permissions](restore_permissions.md#spanner).
 
@@ -31,6 +31,4 @@ To make sure that the missing permissions have been successfully granted, click 
 
 [![Restoring Cloud SQL Databases](images/spanner_database_restore_check.webp)](images/spanner_database_restore_check.webp "Restoring Cloud SQL Databases")
 
-Page updated 11/14/2025
 
-Page content applies to build 7.0.0.47
