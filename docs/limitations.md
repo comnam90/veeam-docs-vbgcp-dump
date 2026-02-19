@@ -3,7 +3,7 @@ title: "Considerations and Limitations"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/limitations.html"
-last_updated: "12/8/2025"
+last_updated: "2/17/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -31,6 +31,7 @@ When managing backup repositories, consider the following:
 * The Coldline storage class is not supported. For more information on storage classes offered by Cloud Storage, see [Google Cloud documentation](https://cloud.google.com/storage/docs/storage-classes).
 * You cannot change Google Cloud storage buckets, subdirectories and storage classes for backup repositories already added to Veeam Backup for Google Cloud.
 * Customer-supplied encryption keys (CSEKs) are not supported for repository encryption.
+* Veeam Backup for Google Cloud does not support creation of immutable backup repositories.
 * After you create a repository with encryption enabled, you will not be able to disable encryption for this repository. However, you will still be able to change the encryption settings as described in section [Editing Backup Repositories](editing_repositories.md).
 * A backup repository must not be managed by multiple backup appliances simultaneously. Retention sessions running on different appliances may corrupt backups stored in the repository, which may result in unpredictable data loss.
 
