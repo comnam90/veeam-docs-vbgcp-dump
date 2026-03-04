@@ -3,7 +3,7 @@ title: "Considerations and Limitations"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/limitations.html"
-last_updated: "2/17/2026"
+last_updated: "3/3/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -53,7 +53,7 @@ When protecting Google Cloud resources, consider the following:
 
 To learn how to provide access to Shared VPC networks, see [Google Cloud documentation](https://cloud.google.com/vpc/docs/provisioning-shared-vpc#networkuseratproject).
 
-* Veeam Backup for Google Cloud does not support backup of Google Cloud hyperdisks if they are shared across several VMs.
+* Veeam Backup for Google Cloud does not support backup of Google Cloud hyperdisks, including those that are used as boot disks.
 
 * Veeam Backup for Google Cloud does not support backup of the default PostgreSQL databases (template0, template1 and postgres).
 * Veeam Backup for Google Cloud does not support backup of SQL instances of PostgreSQL version 18 or higher.
