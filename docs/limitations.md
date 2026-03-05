@@ -3,7 +3,7 @@ title: "Considerations and Limitations"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/limitations.html"
-last_updated: "3/3/2026"
+last_updated: "3/4/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -53,7 +53,7 @@ When protecting Google Cloud resources, consider the following:
 
 To learn how to provide access to Shared VPC networks, see [Google Cloud documentation](https://cloud.google.com/vpc/docs/provisioning-shared-vpc#networkuseratproject).
 
-* Veeam Backup for Google Cloud does not support backup of Google Cloud hyperdisks, including those that are used as boot disks.
+* Veeam Backup for Google Cloud by default does not support backup of Google Cloud hyperdisks, including those that are used as boot disks.
 
 * Veeam Backup for Google Cloud does not support backup of the default PostgreSQL databases (template0, template1 and postgres).
 * Veeam Backup for Google Cloud does not support backup of SQL instances of PostgreSQL version 18 or higher.
@@ -70,7 +70,7 @@ When restoring Google Cloud resources, consider the following:
 
 To learn how to provide access to Shared VPC networks, see [Google Cloud documentation](https://cloud.google.com/vpc/docs/provisioning-shared-vpc#networkuseratproject).
 
-* Veeam Backup for Google Cloud does not support restore of Google Cloud hyperdisks if they are shared across several VMs.
+* Veeam Backup for Google Cloud by default does not support restore of Google Cloud hyperdisks, including those that are used as boot disks.
 * Due to [Google Cloud technical limitations](https://cloud.google.com/compute/docs/disks/local-ssd#data_persistence), Veeam Backup for Google Cloud does not support restore of local SSDs (SCSI and NVMe).
 * Veeam Backup for Google Cloud supports file-level recovery for FAT, FAT32, NTFS, ext2, ext3, ext4, XFS and Btrfs file systems only. However, attributes of files and folders stored in FAT and FAT32 file systems cannot be restored to the original location.
 * Veeam Backup for Google Cloud does not support restore of NTFS links (hard links, junction points, symbolic links) to the original location.
