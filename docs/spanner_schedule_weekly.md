@@ -3,7 +3,7 @@ title: "Specifying Weekly Schedule"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/spanner_schedule_weekly.html"
-last_updated: "11/11/2025"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 
