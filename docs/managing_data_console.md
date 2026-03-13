@@ -3,7 +3,7 @@ title: "Managing Backed-Up Data Using Console"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/managing_data_console.html"
-last_updated: "11/21/2025"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -19,8 +19,9 @@ To view and manage backed-up data, navigate to the Backups node of the Home view
 
 When you expand the Backups node in the working area, you can see the following icons:
 
+Managing Backed-Up Data Using Console
+
 | Icon | Protected Workload |
-| --- | --- |
 | ![Managing Backed-Up Data Using Console](images/sql_instance.webp) | Indicates that the protected workload is a VM instance. |
 | ![Managing Backed-Up Data Using Console](images/vm_instance.webp) | Indicates that the protected workload is a Cloud SQL instance. |
 | ![Managing Backed-Up Data Using Console](images/spanner_instance.webp) | Indicates that the protected workload is a Cloud Spanner instance. |
