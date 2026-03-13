@@ -3,7 +3,7 @@ title: "Enabling Backup Archiving"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_archiving.html"
-last_updated: "12/8/2025"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 

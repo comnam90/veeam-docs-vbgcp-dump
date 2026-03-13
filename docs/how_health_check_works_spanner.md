@@ -3,7 +3,7 @@ title: "How Health Check Works"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/how_health_check_works_spanner.html"
-last_updated: "2/2/2024"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 
