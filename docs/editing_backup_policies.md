@@ -3,7 +3,7 @@ title: "Editing Backup Policy Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/editing_backup_policies.html"
-last_updated: "11/21/2025"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 

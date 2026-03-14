@@ -3,7 +3,7 @@ title: "Instance Restore"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_entire_instance_sql.html"
-last_updated: "12/27/2023"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 

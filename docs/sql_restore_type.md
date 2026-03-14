@@ -3,7 +3,7 @@ title: "Step 7. Specify Instance Name and Type"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_restore_type.html"
-last_updated: "12/2/2025"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 
