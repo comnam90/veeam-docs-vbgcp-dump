@@ -3,7 +3,7 @@ title: "Snapshot Chain"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/snapshot_chain_vm.html"
-last_updated: "6/13/2025"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 

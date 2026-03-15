@@ -3,7 +3,7 @@ title: "Step 6. Specify Mount Server Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vbgc_repository_mount_server.html"
-last_updated: "12/2/2025"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 
