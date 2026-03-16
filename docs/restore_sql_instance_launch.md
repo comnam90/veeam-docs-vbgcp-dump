@@ -3,7 +3,7 @@ title: "Step 1. Launch Restore to Google Cloud SQL Wizard"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_sql_instance_launch.html"
-last_updated: "11/14/2025"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 

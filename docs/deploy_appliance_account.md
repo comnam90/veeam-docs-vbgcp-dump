@@ -3,7 +3,7 @@ title: "Step 3. Specify Service Account Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/deploy_appliance_account.html"
-last_updated: "11/18/2025"
+last_updated: "3/11/2026"
 product_version: "7.0.0.47"
 ---
 
