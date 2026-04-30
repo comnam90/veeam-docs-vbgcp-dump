@@ -3,14 +3,14 @@ title: "Step 2. Specify Backup Policy Name and Description"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_policy_name.html"
-last_updated: "11/11/2025"
+last_updated: "4/1/2026"
 product_version: "7.0.0.47"
 ---
 
 # Step 2. Specify Backup Policy Name and Description
 
 
-At the Policy Info step of the wizard, use the Name and Description fields to enter a name for the new backup policy and to provide a description for future reference. The policy name can contain only uppercase Latin letters, lowercase Latin letters, numeric characters and hyphens; the maximum length of the name is 127 characters.
+At the Policy Info step of the wizard, enter a name for the new backup policy and provide a description for future reference. The policy name can contain only uppercase Latin letters, lowercase Latin letters, numeric characters and hyphens; the maximum length of the name is 127 characters.
 
 |  |
 | --- |
