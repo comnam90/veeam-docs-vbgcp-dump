@@ -3,7 +3,7 @@ title: "Installing Updates"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/updates_install.html"
-last_updated: "11/14/2025"
+last_updated: "12/22/2025"
 product_version: "7.0.0.47"
 ---
 
@@ -49,7 +49,7 @@ To download and install available product and package updates:
 
 [![Installing Updates](images/updates_install.webp)](images/updates_install.webp "Installing Updates")
 
-Veeam Backup for Google Cloud will download and install the updates; the results of the installation process will be displayed on the [History tab](updates_history.md). Keep in mind that it may take several minutes for the installation process to complete.
+Veeam Backup for Google Cloud will download and install the updates; the results of the installation process will be displayed on the [History tab](updates_history_old.md). Keep in mind that it may take several minutes for the installation process to complete.
 
 |  |
 | --- |
@@ -75,7 +75,7 @@ You can instruct Veeam Backup for Google Cloud to automatically download and ins
 
 [![Scheduling Updates](images/updates_schedule.webp)](images/updates_schedule.webp "Scheduling Updates")
 
-Veeam Backup for Google Cloud will automatically download and install the updates on the selected date at the selected time; the results of the installation process will be displayed on the [History tab](updates_history.md).
+Veeam Backup for Google Cloud will automatically download and install the updates on the selected date at the selected time; the results of the installation process will be displayed on the [History tab](updates_history_old.md).
 
 Setting Update Reminder
 
