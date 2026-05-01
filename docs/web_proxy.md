@@ -3,7 +3,7 @@ title: "Configuring Web Proxy"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/web_proxy.html"
-last_updated: "11/14/2025"
+last_updated: "12/16/2025"
 product_version: "7.0.0.47"
 ---
 
