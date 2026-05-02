@@ -3,7 +3,7 @@ title: "Deployment"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/deployment.html"
-last_updated: "11/18/2025"
+last_updated: "12/16/2025"
 product_version: "7.0.0.47"
 ---
 
@@ -24,7 +24,7 @@ This step applies only to Veeam Backup & Replication versions prior to 12.0. Ver
 
 Related Topics
 
-* [Installing Plug-In](deploying_plugin.md)
-* [Deploying Backup Appliance](deploying_appliance.md)
+* [Upgrading Plug-In](upgrading_plugin.md)
+* [Upgrading Backup Appliance](updating_vb.md)
 
 
