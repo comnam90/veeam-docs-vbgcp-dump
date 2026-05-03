@@ -3,7 +3,7 @@ title: "Restoring to Microsoft Azure"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/restore_to_azure.html"
-last_updated: "11/18/2025"
+last_updated: "12/10/2025"
 product_version: "7.0.0.47"
 ---
 
