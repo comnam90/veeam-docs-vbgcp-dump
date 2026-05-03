@@ -3,7 +3,7 @@ title: "Rescanning Appliances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/rescanning_appliances.html"
-last_updated: "11/14/2025"
+last_updated: "12/16/2025"
 product_version: "7.0.0.47"
 ---
 
@@ -25,7 +25,7 @@ Veeam Backup & Replication will remove all data collected from the appliance con
 |  |
 | --- |
 | Note |
-| The rescan operation cannot be performed for available backup appliances and appliances that require upgrade. To learn how to upgrade backup appliances, see [Upgrading Appliances](updating_vb.md). |
+| The rescan operation cannot be performed for available backup appliances and appliances that require upgrade. To learn how to upgrade backup appliances, see [Upgrading Appliances](updating_vb_old.md). |
 
 [![Rescan appliance](images/appliance_sync.webp)](images/appliance_sync.webp "Rescan appliance")
 
