@@ -3,7 +3,7 @@ title: "Solution Architecture"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/architecture_overview.html"
-last_updated: "12/8/2025"
+last_updated: "12/22/2025"
 product_version: "7.0.0.47"
 ---
 
@@ -13,14 +13,14 @@ product_version: "7.0.0.47"
 The Veeam Backup for Google Cloud architecture includes the following components:
 
 * [Backup server](backup_server.md)
-* [Google Cloud Plug-in for Veeam Backup & Replication](google_plugin.md)
+* [Veeam Plug-in for Google Cloud](google_plugin.md)
 * [Backup appliances](backup_appliances.md)
 * [Backup repositories](backup_repositiories.md)
 
 * [Worker instances](overview_worker_instances.md)
 * [Additional repositories and tape devices](additional_repos_and_tape_devices.md)
 * [Gateway servers](gateway_servers.md)
-* [Mount Servers](vbgc_mount_servers.md)
+* [Mount servers](vbgc_mount_servers.md)
 
 [![Add backup policy](images/backup_infrastructure.webp)](images/backup_infrastructure.webp "Add backup policy")
 
