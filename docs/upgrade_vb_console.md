@@ -3,7 +3,7 @@ title: "Upgrading to Version 7 from Version 6"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/upgrade_vb_console.html"
-last_updated: "4/29/2026"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -45,6 +45,6 @@ Alternatively, right-click the appliance and select Upgrade.
 
 Related Topics
 
-[How Upgrade Works](vbgc_hiw_upgrade_6_old.md)
+[How Upgrade Works](vbgc_hiw_upgrade_6.md)
 
 
