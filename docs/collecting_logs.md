@@ -3,7 +3,7 @@ title: "Getting Technical Support"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/collecting_logs.html"
-last_updated: "12/16/2025"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -35,7 +35,7 @@ The About section of the Updates tab displays the following information:
 |  |
 | --- |
 | Tip |
-| You can click the link in the Available Updates section of the Updates tab to check for, download and install new product versions and available package updates. For more information, see [Updating Veeam Backup for Google Cloud](updating_vb_old.md). |
+| You can click the link in the Available Updates section of the Updates tab to check for, download and install new product versions and available package updates. For more information, see [Updating Veeam Backup for Google Cloud](appliance_update_web.md). |
 
 [![Support Information](images/about_product.webp)](images/about_product.webp "Support Information")
 
