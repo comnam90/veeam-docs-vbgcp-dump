@@ -3,7 +3,7 @@ title: "Installing Updates"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/updates_install.html"
-last_updated: "12/22/2025"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -20,7 +20,7 @@ You can also [set a reminder to send update notifications](#reminder).
 |  |
 | --- |
 | Important |
-| * You can update the standalone backup appliance using the Veeam Updater service only. Updating the standalone appliance manually is not supported. * You can update the backup appliance managed by a Veeam Backup & Replication server from the Veeam Backup & Replication console only, as described in section [Upgrading Appliances Using Console](appliance_upgrade_console.md). Updating the managed appliance using the Veeam Updater service is not supported. |
+| * You can update the standalone backup appliance using the Veeam Updater service only. Updating the standalone appliance manually is not supported. * You can upgrade the backup appliance managed by a Veeam Backup & Replication server from the Veeam Backup & Replication console only, as described in section [Upgrading Appliances Using Console](upgrading_vb.md). Updating the managed appliance using the Veeam Updater service is not supported. |
 
 Installing Updates
 
@@ -49,7 +49,7 @@ To download and install available product and package updates:
 
 [![Installing Updates](images/updates_install.webp)](images/updates_install.webp "Installing Updates")
 
-Veeam Backup for Google Cloud will download and install the updates; the results of the installation process will be displayed on the [History tab](updates_history_old.md). Keep in mind that it may take several minutes for the installation process to complete.
+Veeam Backup for Google Cloud will download and install the updates; the results of the installation process will be displayed on the [History tab](updates_history.md). Keep in mind that it may take several minutes for the installation process to complete.
 
 |  |
 | --- |
@@ -75,7 +75,7 @@ You can instruct Veeam Backup for Google Cloud to automatically download and ins
 
 [![Scheduling Updates](images/updates_schedule.webp)](images/updates_schedule.webp "Scheduling Updates")
 
-Veeam Backup for Google Cloud will automatically download and install the updates on the selected date at the selected time; the results of the installation process will be displayed on the [History tab](updates_history_old.md).
+Veeam Backup for Google Cloud will automatically download and install the updates on the selected date at the selected time; the results of the installation process will be displayed on the [History tab](updates_history.md).
 
 Setting Update Reminder
 
