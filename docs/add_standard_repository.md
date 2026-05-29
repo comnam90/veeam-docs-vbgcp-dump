@@ -3,7 +3,7 @@ title: "Creating New Repositories"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/add_standard_repository.html"
-last_updated: "4/29/2026"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 
