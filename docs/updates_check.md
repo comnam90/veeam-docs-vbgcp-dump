@@ -3,7 +3,7 @@ title: "Checking for Updates"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/updates_check.html"
-last_updated: "12/16/2025"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -24,7 +24,7 @@ If new updates are available, Veeam Backup for Google Cloud will display them on
 
 Related Topics
 
-* [Installing Updates](updates_install_old.md)
-* [Viewing Update History](updates_history_old.md)
+* [Installing Updates](updates_install.md)
+* [Viewing Updates History](updates_history.md)
 
 
