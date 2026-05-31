@@ -3,7 +3,7 @@ title: "Upgrading Plug-In"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/upgrading_plugin.html"
-last_updated: "12/19/2025"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -13,7 +13,7 @@ product_version: "7.0.0.47"
 To upgrade Veeam Plug-in for Google Cloud, do the following:
 
 1. Install a new version of Veeam Plug-in for Google Cloud as described in section [Installing Plug-In](deploying_plugin.md).
-2. Upgrade backup appliances from the Veeam Backup & Replication console as described in section [Upgrading Appliances](appliance_upgrade_console.md).
+2. Upgrade backup appliances from the Veeam Backup & Replication console as described in section [Upgrading Appliances](upgrade_vb_console.md).
 
 |  |
 | --- |
