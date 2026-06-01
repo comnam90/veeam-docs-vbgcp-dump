@@ -3,7 +3,7 @@ title: "Upgrade and Update"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/vbgc_upgrade_appliance_plugin.html"
-last_updated: "12/22/2025"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -15,7 +15,7 @@ This section describes how to upgrade Veeam Plug-in for Google Cloud and the bac
 In This Section
 
 * [Upgrading Plug-In](upgrading_plugin.md)
-* [Upgrading Backup Appliance](updating_vb.md)
-* [Updating Backup Appliance](appliance_upgrade_web.md)
+* [Upgrading Backup Appliance](upgrading_vb.md)
+* [Updating Backup Appliance](appliance_update_web.md)
 
 

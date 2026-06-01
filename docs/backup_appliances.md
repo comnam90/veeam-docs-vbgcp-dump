@@ -3,7 +3,7 @@ title: "Backup Appliances"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/backup_appliances.html"
-last_updated: "12/16/2025"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -35,7 +35,7 @@ The VM instance running Veeam Backup for Google Cloud is deployed with the pre-i
 * libpam-google-authenticator 20191231-2
 * Veeam Backup for Google Cloud installation packages
 
-In case any software updates become available for the backup appliance, these updates can be installed using the Veeam Updater service as described in section [Updating Veeam Backup for Google Cloud](updates_install_old.md).
+In case any software updates become available for the backup appliance, these updates can be installed using the Veeam Updater service as described in section [Updating Veeam Backup for Google Cloud](appliance_update_web.md).
 
 Backup Appliance Components
 

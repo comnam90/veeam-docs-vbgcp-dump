@@ -2,8 +2,8 @@
 title: "Upgrading Backup Appliance"
 product: "vbgcp"
 doc_type: "guide"
-source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/updating_vb.html"
-last_updated: "4/29/2026"
+source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/upgrading_vb.html"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 

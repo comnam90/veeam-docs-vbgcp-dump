@@ -3,7 +3,7 @@ title: "Overview"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/welcome.html"
-last_updated: "12/17/2024"
+last_updated: "5/27/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -14,6 +14,9 @@ Veeam Backup for Google Cloud is a solution developed for protection and disaste
 
 * Create image-level backups and cloud-native snapshots of VM instances.
 * Create image-level backups and cloud-native snapshots of Cloud SQL instances.
+
+Note that Veeam Backup for Google Cloud allows you to protect MySQL and PostgreSQL instances. SQL Server instances are not supported
+
 * [Available only for backup appliances managed by Veeam Backup & Replication] Create image-level backups and cloud-native snapshots of Cloud Spanner instances.
 * Keep the backed-up data in cost-effective, long-term Google storage buckets.
 
