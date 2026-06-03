@@ -3,7 +3,7 @@ title: "Retention Policy for Archived Backups"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/archive_backup_retention_vm.html"
-last_updated: "2/7/2024"
+last_updated: "6/2/2026"
 product_version: "7.0.0.47"
 ---
 
@@ -34,7 +34,7 @@ To track and remove outdated restore points from an archive backup chain, Veeam 
 
 |  |
 | --- |
-| Notes |
+| Note |
 | Each worker instance can process only one retention task at a time, and Veeam Backup for Google Cloud can simultaneously deploy maximum 10 worker instances to process retention tasks. If the number of retention tasks that must be processed by worker instances is more than the specified limit, the tasks exceeding this limit are queued. |
 
 Related Topics
