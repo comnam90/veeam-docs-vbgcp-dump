@@ -3,7 +3,7 @@ title: "Configuring General Settings"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/configuring_general_settings.html"
-last_updated: "6/2/2026"
+last_updated: "6/16/2026"
 product_version: "7.0.0.47"
 ---
 

@@ -3,7 +3,7 @@ title: "Step 6. Specify Policy Scheduling Options"
 product: "vbgcp"
 doc_type: "guide"
 source_url: "https://helpcenter.veeam.com/docs/vbgc/guide/sql_policy_schedule.html"
-last_updated: "6/2/2026"
+last_updated: "6/16/2026"
 product_version: "7.0.0.47"
 ---
 
